@@ -1,0 +1,7 @@
+pandas
+numpy==1.26.4
+gensim
+scikit-learn
+nltk
+matplotlib
+scipy<1.13

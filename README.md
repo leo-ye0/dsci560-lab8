@@ -1,6 +1,6 @@
-# DSCI 560 Lab 8 - Word2Vec BOW Implementation
+# DSCI 560 Lab 8 - Word2Vec BOW vs Doc2Vec Comparison
 
-This project implements a Word2Vec-based Bag of Words (BOW) representation using K-means clustering.
+This project implements and compares Word2Vec-based Bag of Words (BOW) and Doc2Vec approaches for document embedding and clustering.
 
 ## Setup
 
@@ -37,39 +37,70 @@ uv pip install -r Word2Vec_BOW/requirements.txt
 source .venv/bin/activate
 ```
 
-2. Run the Word2Vec BOW implementation:
+2. Run Word2Vec BOW implementation:
 ```bash
 python Word2Vec_BOW/word2vec_bow.py
 ```
 
+3. Run Doc2Vec implementation:
+```bash
+python Doc2Vec/doc2vec.py
+```
+
 ## Features
 
+### Core Implementation
 - **Word2Vec Training**: Trains Skip-gram Word2Vec model with configurable parameters
-- **Three Configuration Testing**: Tests different vector sizes, epochs, and cluster counts
-- **Optimal K Selection**: Uses elbow method to find optimal number of word clusters
-- **Word Clustering**: Groups semantically similar words using K-means
-- **BOW Vector Generation**: Creates normalized bag-of-words vectors for documents
-- **Document Clustering**: Clusters documents using cosine distance metric
-- **Visualization**: t-SNE and PCA plots of word clusters, elbow curves
-- **Document Analysis**: Detailed examination of clustered documents with keywords
+- **Doc2Vec Training**: Trains Doc2Vec model for direct document embeddings
+- **Document Clustering**: Clusters documents using cosine distance for k=3,4,5,6
+- **Quality Metrics**: Silhouette score evaluation for clustering performance
+
+### Analysis & Visualization
+- **Document Cluster Visualization**: PCA plots of document embeddings for all k values
+- **Document Cluster Analysis**: Text files containing all documents in each cluster
+- **Multi-Configuration Comparison**: Tests three different embedding dimensions
+- **Direct Comparison**: Same parameters and evaluation metrics for both approaches
 
 ## Three Test Configurations
 
-- **Config 1**: 10D vectors, 40 epochs, 5 word clusters (small)
-- **Config 2**: 20D vectors, 50 epochs, 10 word clusters (medium)
-- **Config 3**: 30D vectors, 60 epochs, 15 word clusters (large)
+Both Word2Vec BOW and Doc2Vec use identical configurations:
+- **Config 1**: 10D vectors, 40 epochs, window=5, min_count=2
+- **Config 2**: 20D vectors, 50 epochs, window=5, min_count=2  
+- **Config 3**: 30D vectors, 60 epochs, window=5, min_count=2
 
 ## Output Files
 
-- `Word2Vec_BOW/bow_vectors_config{1-3}.npy`: Generated BOW vectors for each config
-- `Word2Vec_BOW/document_clusters_config{1-3}.npy`: Document cluster labels
-- `Word2Vec_BOW/elbow_inertias_config{1-3}.npy`: Inertia values for different k values
-- `Word2Vec_BOW/word_clusters_tsne.png`: t-SNE word cluster visualization
-- `Word2Vec_BOW/word_clusters_pca.png`: PCA word cluster visualization
-- `Word2Vec_BOW/elbow_plot.png`: Elbow method visualization
+### Word2Vec BOW Results
+- `Word2Vec_BOW/clusters/`: PCA visualizations for each config and k value
+- `Word2Vec_BOW/results/`: Document cluster text files (config{1-3}_k{3-6}_cluster_{0-n}.txt)
 
-## Data
+### Doc2Vec Results
+- `Doc2Vec/clusters/`: PCA visualizations for each model and k value
+- `Doc2Vec/results/`: Document cluster text files (model{1-3}_k{3-6}_cluster_{0-n}.txt)
+
+## Methodology Comparison
+
+### Word2Vec BOW Approach
+1. Train Word2Vec on word tokens
+2. Cluster words into semantic groups using optimal k (silhouette score)
+3. Create document vectors as normalized word cluster frequencies
+4. Cluster documents using cosine distance for k=3,4,5,6
+
+### Doc2Vec Approach
+1. Train Doc2Vec directly on documents
+2. Extract document embeddings
+3. Cluster documents using cosine distance for k=3,4,5,6
+
+## Evaluation
+
+Both approaches generate:
+- **PCA visualizations** showing document clusters in 2D space
+- **Silhouette scores** measuring cluster quality
+- **Document cluster files** for qualitative analysis
+- **Identical parameters** for fair comparison
+
+## Data Requirements
 
 The script expects a CSV file at `data/posts.csv` with columns:
-- `title`: Post titles
-- `keywords`: Post keywords (optional)
+- `title`: Post titles (required)
+- `keywords`: Post keywords (optional, enhances analysis)

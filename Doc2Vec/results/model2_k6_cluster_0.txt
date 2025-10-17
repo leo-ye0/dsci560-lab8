@@ -1,0 +1,21 @@
+Model 2 | k=6 | Cluster 0 - 6 documents
+============================================================
+
+1. New electric car battery could last 600 000 miles and recharge in minutes
+   Keywords: minutes, battery, miles, recharge, car, electric
+
+2. New RNA tool to advance cancer and infectious disease research and treatment
+   Keywords: research, treatment, advance, cancer, rna, tool, disease, infectious
+
+3. MIT geologists discover where energy goes during an earthquake Based on mini lab quakes in a controlled setting the findings could help researchers assess the vulnerability of quake prone regions
+   Keywords: based, help, quake, setting, lab, mit, quakes, mini
+
+4. A more precise way to edit the genome
+   Keywords: edit, genome, precise
+
+5. Forged in disorder High entropy MXenes emerge as a new material
+   Keywords: emerge, material, disorder, forged, entropy, mxenes
+
+6. Helping scientists run complex data analyses without writing code
+   Keywords: complex, code, writing, analyses, data, helping, run, scientists
+

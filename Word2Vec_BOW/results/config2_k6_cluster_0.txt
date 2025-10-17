@@ -1,0 +1,60 @@
+config2 | k=6 | Cluster 0 - 19 documents
+============================================================
+
+1. A single fecal transplant provides years of health benefits A capsule full of healthy gut bacteria provided obese teens with health benefits for years
+   Keywords: benefits, health, bacteria, years, transplant, teens, gut, fecal transplant
+
+2. No wearables needed researchers use WiFi and Raspberry Pi to measure your heart rate in real time Matching clinical accuracy within seconds
+   Keywords: seconds, researchers, raspberry, heart, clinical, real, measure, accuracy
+
+3. World s first koala chlamydia vaccine approved for rollout across country Vaccine will protect koalas from the widespread disease that causes painful urinary tract infections infertility blindness and death
+   Keywords: disease, koala, vaccine, approved, painful, infections, rollout, koalas
+
+4. Technology originating at MIT leads to approved bladder cancer treatment
+   Keywords: treatment, mit, approved, leads, originating, technology, bladder, cancer
+
+5. New RNA tool to advance cancer and infectious disease research and treatment
+   Keywords: research, treatment, advance, cancer, rna, tool, disease, infectious
+
+6. Eye drops could replace glasses or surgery for longsightedness study says Research shows most patients can read extra lines on eye test charts after twice daily treatment
+   Keywords: eye, replace, lines, twice, surgery, test, shows, study
+
+7. FDA approves first nasal spray diuretic for heart liver and kidney disease Aiming to prevent a common and costly issue that results in more than a million hospitalizations each year
+   Keywords: hospitalizations, costly, results, aiming, nasal, prevent, diuretic, fda
+
+8. Machine learning tool gives doctors a more detailed 3D picture of fetal health
+   Keywords: health, picture, gives, detailed, doctors, fetal, learning, machine
+
+9. AI designed viruses are here and already killing bacteria Can AI create a life form These generative genomes are a start
+   Keywords: create, form, start, bacteria, designed, generative, genomes, killing
+
+10. World s first behavior transplant between species achieved
+   Keywords: behavior, species, achieved, transplant
+
+11. Study shows mucus contains molecules that block Salmonella infection MIT researchers now hope to develop synthetic versions of these molecules which could be used to treat or prevent foodborne illnesses
+   Keywords: molecules, synthetic, hope, prevent, block, contains, mit, treat
+
+12. New AI system could accelerate clinical research By enabling rapid annotation of areas of interest in medical images the tool can help scientists study new treatments or map disease progression
+   Keywords: areas, map, research, rapid, help, accelerate, progression, treatments
+
+13. Edible sensor warns of flu by tasting like thyme The molecular sensor contains a phenolic compound called thymol which is found in thyme
+   Keywords: thyme, tasting, sensor, contains, compound, flu, molecular, edible
+
+14. Psychedelic DMT shows promise as breakthrough stroke treatment
+   Keywords: stroke, promise, treatment, breakthrough, dmt, psychedelic, shows
+
+15. Smart in asphalt fabric provides live reports from within roads Once embedded in the asphalt the sensor fabric s job is to provide continuous measurements
+   Keywords: asphalt, fabric, measurements, roads, job, reports, sensor, embedded
+
+16. New daily pill shows strong results in ulcerative colitis clinical trial
+   Keywords: clinical, shows, trial, colitis, daily, pill, results, strong
+
+17. Next gen vaccine prevents up to 88 of multiple aggressive cancers
+   Keywords: prevents, aggressive, cancers, multiple, gen, vaccine
+
+18. Two pronged approach cuts sleep apnea events by 68
+   Keywords: events, cuts, approach, pronged, apnea, sleep
+
+19. New approach shields memory from brain cancer radiotherapy
+   Keywords: cancer, memory, radiotherapy, brain, approach, shields
+

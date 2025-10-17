@@ -1,0 +1,72 @@
+config1 | k=3 | Cluster 2 - 23 documents
+============================================================
+
+1. Japan s green light for making human embryos from stem cells takes us into uncharted territory using CRISPR IPSCs and IVF potentially changing our entire species
+   Keywords: entire, stem, human, ipscs, potentially, territory, light, japan green
+
+2. DNA cassette tape can store every song ever recorded with petabytes to spare For now DNA based storage is still extremely slow for potential industry applications
+   Keywords: dna, song, spare, industry, slow, storage, store, applications
+
+3. This MIT spinout is taking biomolecule storage out of the freezer
+   Keywords: storage, freezer, mit, spinout, biomolecule, taking
+
+4. Saab s compact Nimbrix missile takes down drone swarms Inexpensive system for handling small drones individually or in swarms at a range of up to 2 7 nautical miles 3 1 miles 5 km
+   Keywords: range, miles, nautical, swarms, inexpensive, individually, handling, nimbrix
+
+5. Inexpensive New Water Based Liquid Battery Could Replace 10 000 Lithium Systems
+   Keywords: replace, based, lithium, systems, battery, inexpensive, liquid, water
+
+6. MIT geologists discover where energy goes during an earthquake Based on mini lab quakes in a controlled setting the findings could help researchers assess the vulnerability of quake prone regions
+   Keywords: based, help, quake, setting, lab, mit, quakes, mini
+
+7. Swarming drones could overwhelm air defenses changing the future of combat New AI software allows drones to fly and fight as one coordinated force
+   Keywords: drones, combat, fight, overwhelm, changing, fly, future, coordinated
+
+8. Apollo laser takes down 200 drones unplugged
+   Keywords: unplugged, drones, apollo, laser, takes
+
+9. New nonstick coating acts like Teflon but without the forever chemicals
+   Keywords: forever, acts, chemicals, teflon, coating, nonstick
+
+10. AI system learns from many types of scientific information and runs experiments to discover new materials
+   Keywords: materials, learns, types, discover, experiments, information, runs, scientific
+
+11. Microwave weapon downs 49 drones with a single blast In a demonstration not so much of marksmanship but more of the advantages of microwaves
+   Keywords: advantages, demonstration, drones, marksmanship, microwaves, blast, single, downs
+
+12. Spider like construction robot promises to build a home per day Being autonomously capable of building a 2 150 sq ft home in a single day operating at roughly the speed of 100 bricklayers
+   Keywords: home, autonomously, bricklayers, building, build, single, speed, robot
+
+13. Study finds key role for non neural brain cells in processing vision MIT researchers employed a novel application of tools and analysis to show that astrocytes ensure neural information processing by maintaining ambient levels of the neurotransmitter chemical GABA
+   Keywords: neural, levels, analysis, role, neurotransmitter, processing, mit, novel
+
+14. Oak Ridge s new 3D printer can mix and match materials at massive scale Scientists unveil multiplexed nozzle for next generation 3D printing
+   Keywords: generation, printer, printing, match, unveil, massive, oak ridge, ridge
+
+15. Palladium filters could enable cheaper more efficient generation of hydrogen fuel The novel design allows the membranes to withstand high temperatures when separating hydrogen from gas mixtures
+   Keywords: hydrogen, efficient, enable, withstand, novel, temperatures, generation, separating
+
+16. This chip uses light to supercharge AI and cut energy use
+   Keywords: energy, light, cut, supercharge, chip, uses
+
+17. Parachutes with hundreds of holes could enable safer drone deliveries
+   Keywords: deliveries, enable, holes, hundreds, parachutes, drone, safer
+
+18. Scientists race to make living computers powered by human cells
+   Keywords: cells, powered, race, scientists, human, computers, living
+
+19. Chemists create red fluorescent dyes that may enable clearer biomedical imaging The new dyes are based on boron containing molecules that were previously too unstable for practical use
+   Keywords: biomedical, unstable, containing, dyes, based, fluorescent, imaging, molecules
+
+20. How Wi Fi Signals Can Be Used to Detect Your Heartbeat Contactless pulse monitoring opens up new wearable possibilities
+   Keywords: signals, possibilities, used, pulse, detect, wearable, contactless, heartbeat
+
+21. Tiny lab grown brains could help build the next generation of computers Biocomputing has left the realm of science fiction and entered the laboratory
+   Keywords: generation, biocomputing, build, entered, science, brains, laboratory, left
+
+22. Engineered natural killer cells could help fight cancer
+   Keywords: fight, cells, cancer, help, engineered, killer, natural
+
+23. Naked mole rat DNA repair could unlock natural human longevity
+   Keywords: longevity, unlock, dna, repair, human, natural, mole, naked
+

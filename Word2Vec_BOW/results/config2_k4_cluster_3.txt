@@ -1,0 +1,45 @@
+config2 | k=4 | Cluster 3 - 14 documents
+============================================================
+
+1. Artificial cartilage senses arthritis pain then morphs to block it A squishy cartilage like material can be loaded up with either long term or short term pain killers that are released when the material senses chemical stress from arthritis
+   Keywords: material, cartilage, arthritis, released, morphs, killers, short, term
+
+2. Breakthrough 3D printing methods bring artificial skin tissue closer to reality Swedish research team pioneers methods to print skin with functioning blood vessels
+   Keywords: skin, methods, blood, research, artificial, print, printing, tissue
+
+3. DNA cassette tape can store every song ever recorded with petabytes to spare For now DNA based storage is still extremely slow for potential industry applications
+   Keywords: dna, song, spare, industry, slow, storage, store, applications
+
+4. This MIT spinout is taking biomolecule storage out of the freezer
+   Keywords: storage, freezer, mit, spinout, biomolecule, taking
+
+5. Lidar helps gas industry find methane leaks and avoid costly losses Lincoln Laboratory transitioned its optical amplifier technology to Bridger Photonics for commercialization enhancing U S energy security and efficiency
+   Keywords: security, leaks, photonics, optical, industry, costly, laboratory, lidar
+
+6. Lidar helps gas industry find methane leaks and avoid costly losses
+   Keywords: costly, leaks, industry, losses, avoid, methane, gas, helps
+
+7. Easy test identifies high stress levels in kids living with chronic illness By testing for the stress hormone cortisol in hair researchers can identify kids with chronic illness who face the greatest risk of anxiety depression or behavioral struggles
+   Keywords: illness, kids, cortisol, researchers, stress, chronic, anxiety, risk
+
+8. Low dose radiation relieves knee osteoarthritis pain improves function
+   Keywords: pain, relieves, function, improves, knee, osteoarthritis, dose, low
+
+9. Study finds key role for non neural brain cells in processing vision MIT researchers employed a novel application of tools and analysis to show that astrocytes ensure neural information processing by maintaining ambient levels of the neurotransmitter chemical GABA
+   Keywords: neural, levels, analysis, role, neurotransmitter, processing, mit, novel
+
+10. Artificial neuron melds electronics and biology to function like the real thing
+   Keywords: function, electronics, biology, real, thing, artificial, melds, neuron
+
+11. Palladium filters could enable cheaper more efficient generation of hydrogen fuel The novel design allows the membranes to withstand high temperatures when separating hydrogen from gas mixtures
+   Keywords: hydrogen, efficient, enable, withstand, novel, temperatures, generation, separating
+
+12. A groundbreaking study has revealed that your mom and dad s DNA don t just pass on telomere length they actively reshape it in the first days of life influencing how we age and our risk of developing diseases such as cancer
+   Keywords: reshape, dad, length, influencing, revealed, risk, don, pass
+
+13. Breakthrough blood test detects chronic fatigue in 92 of cases
+   Keywords: cases, detects, chronic, fatigue, blood, breakthrough, test
+
+14. Forged in disorder High entropy MXenes emerge as a new material
+   Keywords: emerge, material, disorder, forged, entropy, mxenes
+

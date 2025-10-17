@@ -201,49 +201,42 @@ class Word2VecBOW:
     
 
     
-    def _plot_pca(self, word_vectors, cluster_labels, words, config_name, k_value):
-        """Create PCA visualization of word clusters"""
-        print("Creating PCA visualization...")
+    def _plot_document_pca(self, reduced, cluster_labels, config_name, k_value, score):
+        """Create PCA visualization of document clusters"""
+        print("Creating document PCA visualization...")
         
-        pca = PCA(n_components=2, random_state=42)
-        word_vectors_2d = pca.fit_transform(word_vectors)
-        plt.figure(figsize=(12, 8))
-        scatter = plt.scatter(word_vectors_2d[:, 0], word_vectors_2d[:, 1], 
-                            c=cluster_labels, cmap='tab10', alpha=0.7, s=50)
-        
-        for i in range(0, len(words), max(1, len(words)//50)):
-            plt.annotate(words[i], (word_vectors_2d[i, 0], word_vectors_2d[i, 1]),
-                        xytext=(5, 5), textcoords='offset points', 
-                        fontsize=8, alpha=0.7)
+        plt.figure(figsize=(8, 6))
+        scatter = plt.scatter(reduced[:, 0], reduced[:, 1], 
+                            c=cluster_labels, cmap='tab10', alpha=0.7, s=30)
         
         plt.colorbar(scatter, label='Cluster ID')
-        plt.title(f'Word Clusters Visualization (PCA)\n{config_name}, k={k_value} clusters\n'
-                 f'Explained variance: {pca.explained_variance_ratio_[0]:.2%} + {pca.explained_variance_ratio_[1]:.2%}')
-        plt.xlabel(f'PC1 ({pca.explained_variance_ratio_[0]:.2%} variance)')
-        plt.ylabel(f'PC2 ({pca.explained_variance_ratio_[1]:.2%} variance)')
-        plt.grid(True, alpha=0.3)
+        plt.title(f'{config_name} | k={k_value} | Silhouette={score:.4f}')
+        plt.xlabel('PCA Component 1')
+        plt.ylabel('PCA Component 2')
+        plt.tight_layout()
         
         clusters_dir = '/home/yutaoye/Desktop/dsci560-lab8/Word2Vec_BOW/clusters'
         os.makedirs(clusters_dir, exist_ok=True)
         
-        plt.savefig(f'{clusters_dir}/{config_name}_k{k_value}_pca.png', 
-                   dpi=300, bbox_inches='tight')
+        filename = f'{config_name}_k{k_value}_sil{score:.3f}.png'
+        plt.savefig(f'{clusters_dir}/{filename}', dpi=300, bbox_inches='tight')
         plt.close()
     
-    def generate_all_k_visualizations(self, config_name, max_words=500):
-        """Generate PCA visualizations for all k values"""
-        if not self.word2vec_model:
-            raise ValueError("Word2Vec model not trained yet")
-        
-        words = list(self.word2vec_model.wv.index_to_key)[:max_words]
-        word_vectors = np.array([self.word2vec_model.wv[word] for word in words])
+    def generate_all_k_visualizations(self, config_name, bow_matrix, df):
+        """Generate PCA visualizations for document clusters with all k values"""
+        normalized_vectors = normalize(bow_matrix, norm='l2')
+        pca = PCA(n_components=2, random_state=42)
+        reduced = pca.fit_transform(normalized_vectors)
         
         for k in range(3, 7):
-            print(f"Generating visualization for k={k}...")
+            print(f"Generating document cluster visualization for k={k}...")
             
             kmeans = KMeans(n_clusters=k, random_state=42, n_init=10)
-            cluster_labels = kmeans.fit_predict(word_vectors)
-            self._plot_pca(word_vectors, cluster_labels, words, config_name, k)
+            cluster_labels = kmeans.fit_predict(normalized_vectors)
+            score = silhouette_score(normalized_vectors, cluster_labels, metric='cosine')
+            
+            self._plot_document_pca(reduced, cluster_labels, config_name, k, score)
+            self.save_document_clusters(df, cluster_labels, config_name, k)
     
     def cluster_documents_cosine(self, bow_matrix, n_clusters=5):
         """Cluster documents using cosine distance metric"""
@@ -280,7 +273,7 @@ class Word2VecBOW:
         
         return doc_cluster_labels
     
-    def save_document_clusters(self, df, doc_cluster_labels, config_name):
+    def save_document_clusters(self, df, doc_cluster_labels, config_name, k):
         """Save document clusters to text files"""
         results_dir = '/home/yutaoye/Desktop/dsci560-lab8/Word2Vec_BOW/results'
         os.makedirs(results_dir, exist_ok=True)
@@ -288,10 +281,10 @@ class Word2VecBOW:
         for cluster_id in range(max(doc_cluster_labels) + 1):
             cluster_docs = df[doc_cluster_labels == cluster_id]
             
-            filename = f'{results_dir}/{config_name}_cluster_{cluster_id}.txt'
+            filename = f'{results_dir}/{config_name}_k{k}_cluster_{cluster_id}.txt'
             with open(filename, 'w', encoding='utf-8') as f:
-                f.write(f"Cluster {cluster_id} - {len(cluster_docs)} documents\n")
-                f.write("=" * 50 + "\n\n")
+                f.write(f"{config_name} | k={k} | Cluster {cluster_id} - {len(cluster_docs)} documents\n")
+                f.write("=" * 60 + "\n\n")
                 
                 for idx, (_, row) in enumerate(cluster_docs.iterrows()):
                     f.write(f"{idx+1}. {row['title']}\n")
@@ -327,15 +320,11 @@ def main():
         w2v_bow.cluster_words()
         w2v_bow.analyze_clusters()
         
-        config_name = f"config{i}"
-        w2v_bow.generate_all_k_visualizations(config_name)
-        
         bow_matrix = w2v_bow.transform_corpus(corpus)
         print(f"\nBOW matrix shape: {bow_matrix.shape}")
         
-        doc_clusters = w2v_bow.cluster_documents_cosine(bow_matrix, n_clusters=5)
-        w2v_bow.analyze_document_clusters(df, doc_clusters)
-        w2v_bow.save_document_clusters(df, doc_clusters, config_name)
+        config_name = f"config{i}"
+        w2v_bow.generate_all_k_visualizations(config_name, bow_matrix, df)
         
         print(f"\nConfig {i} results saved:")
         print(f"- Visualizations: clusters/ folder")

@@ -1,0 +1,66 @@
+config1 | k=6 | Cluster 2 - 21 documents
+============================================================
+
+1. Glue gun prints bone grafts directly onto fractures during surgery A modified glue gun prints bone grafts directly onto fractures during surgery
+   Keywords: surgery, bone, fractures, glue, directly, grafts, gun, prints
+
+2. World s first koala chlamydia vaccine approved for rollout across country Vaccine will protect koalas from the widespread disease that causes painful urinary tract infections infertility blindness and death
+   Keywords: disease, koala, vaccine, approved, painful, infections, rollout, koalas
+
+3. Breakthrough 3D printing methods bring artificial skin tissue closer to reality Swedish research team pioneers methods to print skin with functioning blood vessels
+   Keywords: skin, methods, blood, research, artificial, print, printing, tissue
+
+4. Technology originating at MIT leads to approved bladder cancer treatment
+   Keywords: treatment, mit, approved, leads, originating, technology, bladder, cancer
+
+5. New RNA tool to advance cancer and infectious disease research and treatment
+   Keywords: research, treatment, advance, cancer, rna, tool, disease, infectious
+
+6. Eye drops could replace glasses or surgery for longsightedness study says Research shows most patients can read extra lines on eye test charts after twice daily treatment
+   Keywords: eye, replace, lines, twice, surgery, test, shows, study
+
+7. New system dramatically speeds the search for polymer materials
+   Keywords: speeds, dramatically, search, materials, polymer
+
+8. FDA approves first nasal spray diuretic for heart liver and kidney disease Aiming to prevent a common and costly issue that results in more than a million hospitalizations each year
+   Keywords: hospitalizations, costly, results, aiming, nasal, prevent, diuretic, fda
+
+9. Machine learning tool gives doctors a more detailed 3D picture of fetal health
+   Keywords: health, picture, gives, detailed, doctors, fetal, learning, machine
+
+10. Common daily pill slashes colorectal cancer s return by 55 A study involving more than 1 000 cancer patients has found that a low dose of aspirin halves the risk of colorectal tumors returning after surgery
+   Keywords: patients, involving, dose, halves, cancer, returning, colorectal, return
+
+11. AI designed viruses are here and already killing bacteria Can AI create a life form These generative genomes are a start
+   Keywords: create, form, start, bacteria, designed, generative, genomes, killing
+
+12. Technique makes complex 3D printed parts more reliable New research enables computer designs to incorporate the limitations of 3D printers to better control materials performance in aerospace medical and other applications
+   Keywords: applications, designs, better, research, medical, performance, makes complex, technique
+
+13. Durable steel wheels could replace rubber tires on mining vehicles GACW says its Air Suspension Wheels can last as long as the vehicles they re fitted on and save up to 60 of what you d spend refitting tires on them over that time
+   Keywords: vehicles, wheels, spend, tires, save, says, steel, air
+
+14. New AI system could accelerate clinical research By enabling rapid annotation of areas of interest in medical images the tool can help scientists study new treatments or map disease progression
+   Keywords: areas, map, research, rapid, help, accelerate, progression, treatments
+
+15. Edible sensor warns of flu by tasting like thyme The molecular sensor contains a phenolic compound called thymol which is found in thyme
+   Keywords: thyme, tasting, sensor, contains, compound, flu, molecular, edible
+
+16. A groundbreaking study has revealed that your mom and dad s DNA don t just pass on telomere length they actively reshape it in the first days of life influencing how we age and our risk of developing diseases such as cancer
+   Keywords: reshape, dad, length, influencing, revealed, risk, don, pass
+
+17. Psychedelic DMT shows promise as breakthrough stroke treatment
+   Keywords: stroke, promise, treatment, breakthrough, dmt, psychedelic, shows
+
+18. Smart in asphalt fabric provides live reports from within roads Once embedded in the asphalt the sensor fabric s job is to provide continuous measurements
+   Keywords: asphalt, fabric, measurements, roads, job, reports, sensor, embedded
+
+19. Breakthrough blood test detects chronic fatigue in 92 of cases
+   Keywords: cases, detects, chronic, fatigue, blood, breakthrough, test
+
+20. New daily pill shows strong results in ulcerative colitis clinical trial
+   Keywords: clinical, shows, trial, colitis, daily, pill, results, strong
+
+21. Next gen vaccine prevents up to 88 of multiple aggressive cancers
+   Keywords: prevents, aggressive, cancers, multiple, gen, vaccine
+

@@ -29,7 +29,26 @@ def return_embeddings(models):
     embeddings = [[model.dv[i] for i in range(len(documents))] for model in models]
     return embeddings
 
-def cluster(embeddings, configs, output_dir, k_range=(3, 6)):
+def save_document_clusters(df, labels, model_idx, k):
+    """Save document clusters to text files"""
+    results_dir = 'Doc2Vec/results'
+    os.makedirs(results_dir, exist_ok=True)
+    
+    for cluster_id in range(max(labels) + 1):
+        cluster_docs = df[labels == cluster_id]
+        
+        filename = f'{results_dir}/model{model_idx}_k{k}_cluster_{cluster_id}.txt'
+        with open(filename, 'w', encoding='utf-8') as f:
+            f.write(f"Model {model_idx} | k={k} | Cluster {cluster_id} - {len(cluster_docs)} documents\n")
+            f.write("=" * 60 + "\n\n")
+            
+            for idx, (_, row) in enumerate(cluster_docs.iterrows()):
+                f.write(f"{idx+1}. {row['title']}\n")
+                if 'keywords' in df.columns and pd.notna(row['keywords']):
+                    f.write(f"   Keywords: {row['keywords']}\n")
+                f.write("\n")
+
+def cluster(embeddings, configs, output_dir, df, k_range=(3, 6)):
     i = 0
 
     for model_idx, emb in enumerate(embeddings, start=1):
@@ -56,6 +75,8 @@ def cluster(embeddings, configs, output_dir, k_range=(3, 6)):
             plt.close()
 
             print(f'k={k}: silhouette={score:.4f}')
+            
+            save_document_clusters(df, labels, model_idx, k)
         i += 1
     
 if __name__ == '__main__':
@@ -74,4 +95,4 @@ if __name__ == '__main__':
 
     output_dir = 'Doc2Vec/clusters'
     os.makedirs(output_dir, exist_ok=True)
-    cluster(embeddings, configs, output_dir)
+    cluster(embeddings, configs, output_dir, df)

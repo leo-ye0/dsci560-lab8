@@ -1,0 +1,21 @@
+Model 3 | k=4 | Cluster 2 - 6 documents
+============================================================
+
+1. Apollo laser takes down 200 drones unplugged
+   Keywords: unplugged, drones, apollo, laser, takes
+
+2. AI system learns from many types of scientific information and runs experiments to discover new materials
+   Keywords: materials, learns, types, discover, experiments, information, runs, scientific
+
+3. Printable aluminum alloy sets strength records may enable lighter aircraft parts
+   Keywords: aircraft, sets, parts, enable, lighter, records, strength, alloy
+
+4. Forged in disorder High entropy MXenes emerge as a new material
+   Keywords: emerge, material, disorder, forged, entropy, mxenes
+
+5. Two pronged approach cuts sleep apnea events by 68
+   Keywords: events, cuts, approach, pronged, apnea, sleep
+
+6. New approach shields memory from brain cancer radiotherapy
+   Keywords: cancer, memory, radiotherapy, brain, approach, shields
+

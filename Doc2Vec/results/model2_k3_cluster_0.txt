@@ -1,0 +1,33 @@
+Model 2 | k=3 | Cluster 0 - 10 documents
+============================================================
+
+1. China s CATL launches new sodium ion battery brand
+   Keywords: ion, launches, sodium, battery, brand, catl, china
+
+2. New electric car battery could last 600 000 miles and recharge in minutes
+   Keywords: minutes, battery, miles, recharge, car, electric
+
+3. We ve glimpsed the secret quantum landscape inside all matter
+   Keywords: matter, glimpsed, landscape, inside, quantum, secret
+
+4. This MIT spinout is taking biomolecule storage out of the freezer
+   Keywords: storage, freezer, mit, spinout, biomolecule, taking
+
+5. Apollo laser takes down 200 drones unplugged
+   Keywords: unplugged, drones, apollo, laser, takes
+
+6. Microwave weapon downs 49 drones with a single blast In a demonstration not so much of marksmanship but more of the advantages of microwaves
+   Keywords: advantages, demonstration, drones, marksmanship, microwaves, blast, single, downs
+
+7. NASA moon rover project pushes extreme battery tech to its limits
+   Keywords: limits, battery, project, tech, extreme, pushes, moon, nasa
+
+8. How Wi Fi Signals Can Be Used to Detect Your Heartbeat Contactless pulse monitoring opens up new wearable possibilities
+   Keywords: signals, possibilities, used, pulse, detect, wearable, contactless, heartbeat
+
+9. Two pronged approach cuts sleep apnea events by 68
+   Keywords: events, cuts, approach, pronged, apnea, sleep
+
+10. Helping scientists run complex data analyses without writing code
+   Keywords: complex, code, writing, analyses, data, helping, run, scientists
+

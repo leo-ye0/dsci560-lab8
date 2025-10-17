@@ -1,0 +1,21 @@
+Model 1 | k=5 | Cluster 1 - 6 documents
+============================================================
+
+1. Inflammation jolts sleeping cancer cells awake enabling them to multiply again
+   Keywords: multiply, enabling, cancer, awake, cells, inflammation, jolts, sleeping
+
+2. AI system learns from many types of scientific information and runs experiments to discover new materials
+   Keywords: materials, learns, types, discover, experiments, information, runs, scientific
+
+3. Microwave weapon downs 49 drones with a single blast In a demonstration not so much of marksmanship but more of the advantages of microwaves
+   Keywords: advantages, demonstration, drones, marksmanship, microwaves, blast, single, downs
+
+4. This chip uses light to supercharge AI and cut energy use
+   Keywords: energy, light, cut, supercharge, chip, uses
+
+5. How Wi Fi Signals Can Be Used to Detect Your Heartbeat Contactless pulse monitoring opens up new wearable possibilities
+   Keywords: signals, possibilities, used, pulse, detect, wearable, contactless, heartbeat
+
+6. Two pronged approach cuts sleep apnea events by 68
+   Keywords: events, cuts, approach, pronged, apnea, sleep
+

@@ -1,0 +1,57 @@
+Model 1 | k=6 | Cluster 1 - 18 documents
+============================================================
+
+1. China s CATL launches new sodium ion battery brand
+   Keywords: ion, launches, sodium, battery, brand, catl, china
+
+2. Technology originating at MIT leads to approved bladder cancer treatment
+   Keywords: treatment, mit, approved, leads, originating, technology, bladder, cancer
+
+3. New RNA tool to advance cancer and infectious disease research and treatment
+   Keywords: research, treatment, advance, cancer, rna, tool, disease, infectious
+
+4. New system dramatically speeds the search for polymer materials
+   Keywords: speeds, dramatically, search, materials, polymer
+
+5. Inexpensive New Water Based Liquid Battery Could Replace 10 000 Lithium Systems
+   Keywords: replace, based, lithium, systems, battery, inexpensive, liquid, water
+
+6. Machine learning tool gives doctors a more detailed 3D picture of fetal health
+   Keywords: health, picture, gives, detailed, doctors, fetal, learning, machine
+
+7. AI designed viruses are here and already killing bacteria Can AI create a life form These generative genomes are a start
+   Keywords: create, form, start, bacteria, designed, generative, genomes, killing
+
+8. Apollo laser takes down 200 drones unplugged
+   Keywords: unplugged, drones, apollo, laser, takes
+
+9. A more precise way to edit the genome
+   Keywords: edit, genome, precise
+
+10. New tool makes generative AI models more likely to create breakthrough materials With SCIGEN researchers can steer AI models to create materials with exotic properties for applications like quantum computing
+   Keywords: materials, create, models, generative, properties, quantum, steer, applications
+
+11. New AI system could accelerate clinical research By enabling rapid annotation of areas of interest in medical images the tool can help scientists study new treatments or map disease progression
+   Keywords: areas, map, research, rapid, help, accelerate, progression, treatments
+
+12. A boost for the precision of genome editing
+   Keywords: boost, genome, editing, precision
+
+13. Next gen imaging tech could catch sight stealing diseases early A powerful new imaging tool offers unprecedented 3D vision of the retina
+   Keywords: retina, vision, early, tech, imaging, offers, sight, powerful
+
+14. A groundbreaking study has revealed that your mom and dad s DNA don t just pass on telomere length they actively reshape it in the first days of life influencing how we age and our risk of developing diseases such as cancer
+   Keywords: reshape, dad, length, influencing, revealed, risk, don, pass
+
+15. Parachutes with hundreds of holes could enable safer drone deliveries
+   Keywords: deliveries, enable, holes, hundreds, parachutes, drone, safer
+
+16. Chemists create red fluorescent dyes that may enable clearer biomedical imaging The new dyes are based on boron containing molecules that were previously too unstable for practical use
+   Keywords: biomedical, unstable, containing, dyes, based, fluorescent, imaging, molecules
+
+17. Naked mole rat DNA repair could unlock natural human longevity
+   Keywords: longevity, unlock, dna, repair, human, natural, mole, naked
+
+18. Helping scientists run complex data analyses without writing code
+   Keywords: complex, code, writing, analyses, data, helping, run, scientists
+

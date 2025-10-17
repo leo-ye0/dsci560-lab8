@@ -1,0 +1,45 @@
+config3 | k=5 | Cluster 0 - 14 documents
+============================================================
+
+1. A single fecal transplant provides years of health benefits A capsule full of healthy gut bacteria provided obese teens with health benefits for years
+   Keywords: benefits, health, bacteria, years, transplant, teens, gut, fecal transplant
+
+2. China s CATL launches new sodium ion battery brand
+   Keywords: ion, launches, sodium, battery, brand, catl, china
+
+3. Promising new epilepsy drug delivers 80 reduction in seizures Adults with drug resistant focal onset seizures are the target of experimental epilepsy drug RAP 219
+   Keywords: drug, epilepsy, reduction, seizures, adults, resistant, rap, experimental
+
+4. We ve glimpsed the secret quantum landscape inside all matter
+   Keywords: matter, glimpsed, landscape, inside, quantum, secret
+
+5. Caged drugs still STING cancer but make treatment much safer The new drug delivery system only activates when inside a tumor and calls upon the body s own immune system to destroy it
+   Keywords: inside, safer, drug, body, calls, destroy, immune, sting
+
+6. Machine learning tool gives doctors a more detailed 3D picture of fetal health
+   Keywords: health, picture, gives, detailed, doctors, fetal, learning, machine
+
+7. AI designed viruses are here and already killing bacteria Can AI create a life form These generative genomes are a start
+   Keywords: create, form, start, bacteria, designed, generative, genomes, killing
+
+8. Ozempic killer New drug reprograms metabolism for lasting weight loss A new drug targets weight loss differently leading to a more permanent fat shedding solution
+   Keywords: drug, loss, permanent, solution, weight, ozempic, reprograms, differently
+
+9. Enzyme behind diet induced obesity and diabetes can be switched off Switching off an enzyme in mice prevented diet induced obesity and improved metabolism
+   Keywords: enzyme, induced, diet, switched, diabetes, obesity, switching, improved
+
+10. Slime mold meets encryption in a radical art experiment SlimeMoldCrypt turns a biological process into a quantum resistant encryption machine
+   Keywords: encryption, radical, biological, slimemoldcrypt, machine, process, art, experiment slimemoldcrypt
+
+11. Edible sensor warns of flu by tasting like thyme The molecular sensor contains a phenolic compound called thymol which is found in thyme
+   Keywords: thyme, tasting, sensor, contains, compound, flu, molecular, edible
+
+12. Sugar switch in the brain offers new path to treating depression Removing the St3gal1 enzyme in healthy mice caused depressive symptoms increasing St3gal1 in stressed mice had the opposite effect easing those behaviors
+   Keywords: mice, easing, treating, caused, stressed, increasing, offers, behaviors
+
+13. Smart in asphalt fabric provides live reports from within roads Once embedded in the asphalt the sensor fabric s job is to provide continuous measurements
+   Keywords: asphalt, fabric, measurements, roads, job, reports, sensor, embedded
+
+14. New sunlight powered film kills 99 995 bacteria to provide safe drinking water It offers a simple affordable and robust solution to the global safe drinking water crisis
+   Keywords: safe, provide, film, crisis, water, drinking, offers, affordable
+

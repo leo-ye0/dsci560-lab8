@@ -1,0 +1,45 @@
+config2 | k=6 | Cluster 3 - 14 documents
+============================================================
+
+1. Bottlebrush particles deliver big chemotherapy payloads directly to cancer cells Outfitted with antibodies that guide them to the tumor site the new nanoparticles could reduce the side effects of treatment
+   Keywords: tumor, reduce, antibodies, directly, effects, cells, guide, nanoparticles reduce
+
+2. Glue gun prints bone grafts directly onto fractures during surgery A modified glue gun prints bone grafts directly onto fractures during surgery
+   Keywords: surgery, bone, fractures, glue, directly, grafts, gun, prints
+
+3. New pathway engineered into plants lets them suck up more CO2 Engineered pathway lets carbon be plugged directly into key metabolic pathways
+   Keywords: pathways, pathway, engineered, suck, lets, plants, directly, plugged
+
+4. Common daily pill slashes colorectal cancer s return by 55 A study involving more than 1 000 cancer patients has found that a low dose of aspirin halves the risk of colorectal tumors returning after surgery
+   Keywords: patients, involving, dose, halves, cancer, returning, colorectal, return
+
+5. Key HIV weakness could pave way for a cure Scientists now know how HIV integrates into the human genome
+   Keywords: genome, scientists, pave, hiv, cure, human, integrates, know
+
+6. Magnesium the microbiome and reducing the risk of colon cancer Magnesium supplements may prevent colon cancer by boosting specific gut bacteria
+   Keywords: cancer, magnesium, risk, colon, specific, microbiome, reducing, boosting specific
+
+7. Inflammation jolts sleeping cancer cells awake enabling them to multiply again
+   Keywords: multiply, enabling, cancer, awake, cells, inflammation, jolts, sleeping
+
+8. Tumor targeting Salmonella engineered to boost colon cancer survival Scientists have engineered a species of Salmonella that self destructs inside colon cancer tumors
+   Keywords: cancer, engineered, colon, scientists, salmonella, destructs, boost, species
+
+9. New 3D bioprinting technique may improve production of engineered tissue
+   Keywords: tissue, technique, production, bioprinting, engineered, improve
+
+10. Bottlebrush particles deliver big chemotherapy payloads directly to cancer cells
+   Keywords: cells, directly, cancer, chemotherapy, payloads, bottlebrush, deliver, particles
+
+11. A boost for the precision of genome editing
+   Keywords: boost, genome, editing, precision
+
+12. Notorious Alzheimer s protein also supercharges cells against cancer Scientists have found that a byproduct of amyloid beta rejuvenates T cells boosting their tumor fighting power and dramatically reducing cancer risk
+   Keywords: scientists, rejuvenates, risk, cells, boosting, fighting, cancer, dramatically
+
+13. Scientists race to make living computers powered by human cells
+   Keywords: cells, powered, race, scientists, human, computers, living
+
+14. Engineered natural killer cells could help fight cancer
+   Keywords: fight, cells, cancer, help, engineered, killer, natural
+

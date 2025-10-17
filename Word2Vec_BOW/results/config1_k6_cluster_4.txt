@@ -1,0 +1,36 @@
+config1 | k=6 | Cluster 4 - 11 documents
+============================================================
+
+1. Bottlebrush particles deliver big chemotherapy payloads directly to cancer cells Outfitted with antibodies that guide them to the tumor site the new nanoparticles could reduce the side effects of treatment
+   Keywords: tumor, reduce, antibodies, directly, effects, cells, guide, nanoparticles reduce
+
+2. We ve glimpsed the secret quantum landscape inside all matter
+   Keywords: matter, glimpsed, landscape, inside, quantum, secret
+
+3. New pathway engineered into plants lets them suck up more CO2 Engineered pathway lets carbon be plugged directly into key metabolic pathways
+   Keywords: pathways, pathway, engineered, suck, lets, plants, directly, plugged
+
+4. Caged drugs still STING cancer but make treatment much safer The new drug delivery system only activates when inside a tumor and calls upon the body s own immune system to destroy it
+   Keywords: inside, safer, drug, body, calls, destroy, immune, sting
+
+5. A new study shows that a personalized precise form of brain stimulation HD tDCS can rapidly ease depression symptoms and even reduce anxiety offering a promising drug free alternative with only mild side effects
+   Keywords: effects, rapidly, reduce, free, symptoms, shows, stimulation, personalized
+
+6. Magnesium the microbiome and reducing the risk of colon cancer Magnesium supplements may prevent colon cancer by boosting specific gut bacteria
+   Keywords: cancer, magnesium, risk, colon, specific, microbiome, reducing, boosting specific
+
+7. Inflammation jolts sleeping cancer cells awake enabling them to multiply again
+   Keywords: multiply, enabling, cancer, awake, cells, inflammation, jolts, sleeping
+
+8. Tumor targeting Salmonella engineered to boost colon cancer survival Scientists have engineered a species of Salmonella that self destructs inside colon cancer tumors
+   Keywords: cancer, engineered, colon, scientists, salmonella, destructs, boost, species
+
+9. New 3D bioprinting technique may improve production of engineered tissue
+   Keywords: tissue, technique, production, bioprinting, engineered, improve
+
+10. Bottlebrush particles deliver big chemotherapy payloads directly to cancer cells
+   Keywords: cells, directly, cancer, chemotherapy, payloads, bottlebrush, deliver, particles
+
+11. Notorious Alzheimer s protein also supercharges cells against cancer Scientists have found that a byproduct of amyloid beta rejuvenates T cells boosting their tumor fighting power and dramatically reducing cancer risk
+   Keywords: scientists, rejuvenates, risk, cells, boosting, fighting, cancer, dramatically
+

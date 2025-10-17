@@ -1,0 +1,39 @@
+config1 | k=5 | Cluster 2 - 12 documents
+============================================================
+
+1. Promising new epilepsy drug delivers 80 reduction in seizures Adults with drug resistant focal onset seizures are the target of experimental epilepsy drug RAP 219
+   Keywords: drug, epilepsy, reduction, seizures, adults, resistant, rap, experimental
+
+2. Lidar helps gas industry find methane leaks and avoid costly losses Lincoln Laboratory transitioned its optical amplifier technology to Bridger Photonics for commercialization enhancing U S energy security and efficiency
+   Keywords: security, leaks, photonics, optical, industry, costly, laboratory, lidar
+
+3. Lidar helps gas industry find methane leaks and avoid costly losses
+   Keywords: costly, leaks, industry, losses, avoid, methane, gas, helps
+
+4. Hunger blocking exercise molecule drives weight loss without workouts And the good news is that it could be harnessed as a therapeutic providing the same benefits without the hard work it takes to produce it naturally
+   Keywords: harnessed, loss, therapeutic, produce, benefits, hard, molecule, hunger
+
+5. Ozempic killer New drug reprograms metabolism for lasting weight loss A new drug targets weight loss differently leading to a more permanent fat shedding solution
+   Keywords: drug, loss, permanent, solution, weight, ozempic, reprograms, differently
+
+6. Nano cubosome eyedrops that can ferry protective compounds all the way to the retina target macular degeneration without needles
+   Keywords: needles, protective, macular, compounds, ferry, degeneration, retina, cubosome
+
+7. MIT engineers develop a magnetic transistor for more energy efficient electronics A new device concept opens the door to compact high performance transistors with built in memory
+   Keywords: performance, built, opens, efficient, device concept, memory, door, electronics
+
+8. GE Aerospace flies hypersonic engine with no moving parts
+   Keywords: hypersonic, engine, moving, parts, aerospace, flies
+
+9. Device uses a camera AI and electricity to boost healing time by 25
+   Keywords: healing, electricity, camera, boost, device, uses
+
+10. Slime mold meets encryption in a radical art experiment SlimeMoldCrypt turns a biological process into a quantum resistant encryption machine
+   Keywords: encryption, radical, biological, slimemoldcrypt, machine, process, art, experiment slimemoldcrypt
+
+11. Printable aluminum alloy sets strength records may enable lighter aircraft parts
+   Keywords: aircraft, sets, parts, enable, lighter, records, strength, alloy
+
+12. Helping scientists run complex data analyses without writing code
+   Keywords: complex, code, writing, analyses, data, helping, run, scientists
+

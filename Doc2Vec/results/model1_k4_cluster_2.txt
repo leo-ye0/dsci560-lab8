@@ -1,0 +1,33 @@
+Model 1 | k=4 | Cluster 2 - 10 documents
+============================================================
+
+1. Apollo laser takes down 200 drones unplugged
+   Keywords: unplugged, drones, apollo, laser, takes
+
+2. Inflammation jolts sleeping cancer cells awake enabling them to multiply again
+   Keywords: multiply, enabling, cancer, awake, cells, inflammation, jolts, sleeping
+
+3. AI system learns from many types of scientific information and runs experiments to discover new materials
+   Keywords: materials, learns, types, discover, experiments, information, runs, scientific
+
+4. Microwave weapon downs 49 drones with a single blast In a demonstration not so much of marksmanship but more of the advantages of microwaves
+   Keywords: advantages, demonstration, drones, marksmanship, microwaves, blast, single, downs
+
+5. This chip uses light to supercharge AI and cut energy use
+   Keywords: energy, light, cut, supercharge, chip, uses
+
+6. How Wi Fi Signals Can Be Used to Detect Your Heartbeat Contactless pulse monitoring opens up new wearable possibilities
+   Keywords: signals, possibilities, used, pulse, detect, wearable, contactless, heartbeat
+
+7. Printable aluminum alloy sets strength records may enable lighter aircraft parts
+   Keywords: aircraft, sets, parts, enable, lighter, records, strength, alloy
+
+8. Breakthrough blood test detects chronic fatigue in 92 of cases
+   Keywords: cases, detects, chronic, fatigue, blood, breakthrough, test
+
+9. Forged in disorder High entropy MXenes emerge as a new material
+   Keywords: emerge, material, disorder, forged, entropy, mxenes
+
+10. Two pronged approach cuts sleep apnea events by 68
+   Keywords: events, cuts, approach, pronged, apnea, sleep
+

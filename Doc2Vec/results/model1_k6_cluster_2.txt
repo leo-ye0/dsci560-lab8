@@ -1,0 +1,201 @@
+Model 1 | k=6 | Cluster 2 - 66 documents
+============================================================
+
+1. A single fecal transplant provides years of health benefits A capsule full of healthy gut bacteria provided obese teens with health benefits for years
+   Keywords: benefits, health, bacteria, years, transplant, teens, gut, fecal transplant
+
+2. No wearables needed researchers use WiFi and Raspberry Pi to measure your heart rate in real time Matching clinical accuracy within seconds
+   Keywords: seconds, researchers, raspberry, heart, clinical, real, measure, accuracy
+
+3. Bottlebrush particles deliver big chemotherapy payloads directly to cancer cells Outfitted with antibodies that guide them to the tumor site the new nanoparticles could reduce the side effects of treatment
+   Keywords: tumor, reduce, antibodies, directly, effects, cells, guide, nanoparticles reduce
+
+4. Glue gun prints bone grafts directly onto fractures during surgery A modified glue gun prints bone grafts directly onto fractures during surgery
+   Keywords: surgery, bone, fractures, glue, directly, grafts, gun, prints
+
+5. Scientists create solar cells that generate energy from indoor light at record efficiency
+   Keywords: efficiency, energy, light, cells, generate, indoor, record, create
+
+6. World s first koala chlamydia vaccine approved for rollout across country Vaccine will protect koalas from the widespread disease that causes painful urinary tract infections infertility blindness and death
+   Keywords: disease, koala, vaccine, approved, painful, infections, rollout, koalas
+
+7. Artificial cartilage senses arthritis pain then morphs to block it A squishy cartilage like material can be loaded up with either long term or short term pain killers that are released when the material senses chemical stress from arthritis
+   Keywords: material, cartilage, arthritis, released, morphs, killers, short, term
+
+8. Breakthrough 3D printing methods bring artificial skin tissue closer to reality Swedish research team pioneers methods to print skin with functioning blood vessels
+   Keywords: skin, methods, blood, research, artificial, print, printing, tissue
+
+9. Scientists unlock way to harness terahertz light for advanced technologies New light control method may lead to faster wireless and quantum devices
+   Keywords: devices, light, lead, wireless, control, technologies, method, scientists
+
+10. Japan s green light for making human embryos from stem cells takes us into uncharted territory using CRISPR IPSCs and IVF potentially changing our entire species
+   Keywords: entire, stem, human, ipscs, potentially, territory, light, japan green
+
+11. Promising new epilepsy drug delivers 80 reduction in seizures Adults with drug resistant focal onset seizures are the target of experimental epilepsy drug RAP 219
+   Keywords: drug, epilepsy, reduction, seizures, adults, resistant, rap, experimental
+
+12. DNA cassette tape can store every song ever recorded with petabytes to spare For now DNA based storage is still extremely slow for potential industry applications
+   Keywords: dna, song, spare, industry, slow, storage, store, applications
+
+13. Lidar helps gas industry find methane leaks and avoid costly losses Lincoln Laboratory transitioned its optical amplifier technology to Bridger Photonics for commercialization enhancing U S energy security and efficiency
+   Keywords: security, leaks, photonics, optical, industry, costly, laboratory, lidar
+
+14. New pathway engineered into plants lets them suck up more CO2 Engineered pathway lets carbon be plugged directly into key metabolic pathways
+   Keywords: pathways, pathway, engineered, suck, lets, plants, directly, plugged
+
+15. Shell promises 10 minute EV charging with its magical battery fluid Shell s thermal management fluid could unlock significantly faster charging for tomorrow s EVs
+   Keywords: evs, battery, fluid, significantly, charging, minute, shell, unlock
+
+16. Lidar helps gas industry find methane leaks and avoid costly losses
+   Keywords: costly, leaks, industry, losses, avoid, methane, gas, helps
+
+17. Eye drops could replace glasses or surgery for longsightedness study says Research shows most patients can read extra lines on eye test charts after twice daily treatment
+   Keywords: eye, replace, lines, twice, surgery, test, shows, study
+
+18. Saab s compact Nimbrix missile takes down drone swarms Inexpensive system for handling small drones individually or in swarms at a range of up to 2 7 nautical miles 3 1 miles 5 km
+   Keywords: range, miles, nautical, swarms, inexpensive, individually, handling, nimbrix
+
+19. FDA approves first nasal spray diuretic for heart liver and kidney disease Aiming to prevent a common and costly issue that results in more than a million hospitalizations each year
+   Keywords: hospitalizations, costly, results, aiming, nasal, prevent, diuretic, fda
+
+20. Caged drugs still STING cancer but make treatment much safer The new drug delivery system only activates when inside a tumor and calls upon the body s own immune system to destroy it
+   Keywords: inside, safer, drug, body, calls, destroy, immune, sting
+
+21. A new study shows that a personalized precise form of brain stimulation HD tDCS can rapidly ease depression symptoms and even reduce anxiety offering a promising drug free alternative with only mild side effects
+   Keywords: effects, rapidly, reduce, free, symptoms, shows, stimulation, personalized
+
+22. MIT geologists discover where energy goes during an earthquake Based on mini lab quakes in a controlled setting the findings could help researchers assess the vulnerability of quake prone regions
+   Keywords: based, help, quake, setting, lab, mit, quakes, mini
+
+23. Hunger blocking exercise molecule drives weight loss without workouts And the good news is that it could be harnessed as a therapeutic providing the same benefits without the hard work it takes to produce it naturally
+   Keywords: harnessed, loss, therapeutic, produce, benefits, hard, molecule, hunger
+
+24. Easy test identifies high stress levels in kids living with chronic illness By testing for the stress hormone cortisol in hair researchers can identify kids with chronic illness who face the greatest risk of anxiety depression or behavioral struggles
+   Keywords: illness, kids, cortisol, researchers, stress, chronic, anxiety, risk
+
+25. Lighting like pulses turn toxic red mud into building materials Researchers have figured out a way to send electric pulses through the mud to purify it and allow it to be reused instead of discarded
+   Keywords: mud, allow, figured, pulses, purify, electric, materials, turn
+
+26. Meta launches smart glasses with built in display reaching for superintelligence
+   Keywords: superintelligence, glasses, built, display, reaching, launches, meta, smart
+
+27. Swarming drones could overwhelm air defenses changing the future of combat New AI software allows drones to fly and fight as one coordinated force
+   Keywords: drones, combat, fight, overwhelm, changing, fly, future, coordinated
+
+28. Common daily pill slashes colorectal cancer s return by 55 A study involving more than 1 000 cancer patients has found that a low dose of aspirin halves the risk of colorectal tumors returning after surgery
+   Keywords: patients, involving, dose, halves, cancer, returning, colorectal, return
+
+29. By knocking out a protein duo s bodyguard role researchers have exposed a hidden weakness in pancreatic cancer It s a discovery that could lead to smarter more effective treatments for one of the deadliest cancers
+   Keywords: discovery, lead, knocking, researchers, effective, hidden, pancreatic, exposed
+
+30. Key HIV weakness could pave way for a cure Scientists now know how HIV integrates into the human genome
+   Keywords: genome, scientists, pave, hiv, cure, human, integrates, know
+
+31. Magnesium the microbiome and reducing the risk of colon cancer Magnesium supplements may prevent colon cancer by boosting specific gut bacteria
+   Keywords: cancer, magnesium, risk, colon, specific, microbiome, reducing, boosting specific
+
+32. Ozempic killer New drug reprograms metabolism for lasting weight loss A new drug targets weight loss differently leading to a more permanent fat shedding solution
+   Keywords: drug, loss, permanent, solution, weight, ozempic, reprograms, differently
+
+33. New biodegradable film made from onion skins can boost solar panel lifespan Renewable solar cell filters stay effective after simulated year of use
+   Keywords: solar, skins, simulated, filters, biodegradable, film, effective, onion
+
+34. Tumor targeting Salmonella engineered to boost colon cancer survival Scientists have engineered a species of Salmonella that self destructs inside colon cancer tumors
+   Keywords: cancer, engineered, colon, scientists, salmonella, destructs, boost, species
+
+35. Smartphone Cameras Go Hyperspectral Off the shelf smartphone cameras can become advanced sensors
+   Keywords: sensors, hyperspectral, shelf, cameras, smartphone, advanced
+
+36. Nano cubosome eyedrops that can ferry protective compounds all the way to the retina target macular degeneration without needles
+   Keywords: needles, protective, macular, compounds, ferry, degeneration, retina, cubosome
+
+37. Enzyme behind diet induced obesity and diabetes can be switched off Switching off an enzyme in mice prevented diet induced obesity and improved metabolism
+   Keywords: enzyme, induced, diet, switched, diabetes, obesity, switching, improved
+
+38. MIT engineers develop a magnetic transistor for more energy efficient electronics A new device concept opens the door to compact high performance transistors with built in memory
+   Keywords: performance, built, opens, efficient, device concept, memory, door, electronics
+
+39. World s first behavior transplant between species achieved
+   Keywords: behavior, species, achieved, transplant
+
+40. Study shows mucus contains molecules that block Salmonella infection MIT researchers now hope to develop synthetic versions of these molecules which could be used to treat or prevent foodborne illnesses
+   Keywords: molecules, synthetic, hope, prevent, block, contains, mit, treat
+
+41. Technique makes complex 3D printed parts more reliable New research enables computer designs to incorporate the limitations of 3D printers to better control materials performance in aerospace medical and other applications
+   Keywords: applications, designs, better, research, medical, performance, makes complex, technique
+
+42. Device uses a camera AI and electricity to boost healing time by 25
+   Keywords: healing, electricity, camera, boost, device, uses
+
+43. Durable steel wheels could replace rubber tires on mining vehicles GACW says its Air Suspension Wheels can last as long as the vehicles they re fitted on and save up to 60 of what you d spend refitting tires on them over that time
+   Keywords: vehicles, wheels, spend, tires, save, says, steel, air
+
+44. New 3D bioprinting technique may improve production of engineered tissue
+   Keywords: tissue, technique, production, bioprinting, engineered, improve
+
+45. Slime mold meets encryption in a radical art experiment SlimeMoldCrypt turns a biological process into a quantum resistant encryption machine
+   Keywords: encryption, radical, biological, slimemoldcrypt, machine, process, art, experiment slimemoldcrypt
+
+46. UV light is a fast effective way to deactivate indoor airborne allergens UV222 light is a passive quick way to inactivate indoor airborne allergens like cat dander
+   Keywords: light, indoor, airborne, allergens, deactivate, inactivate, cat, dander
+
+47. Bottlebrush particles deliver big chemotherapy payloads directly to cancer cells
+   Keywords: cells, directly, cancer, chemotherapy, payloads, bottlebrush, deliver, particles
+
+48. Low dose radiation relieves knee osteoarthritis pain improves function
+   Keywords: pain, relieves, function, improves, knee, osteoarthritis, dose, low
+
+49. Spider like construction robot promises to build a home per day Being autonomously capable of building a 2 150 sq ft home in a single day operating at roughly the speed of 100 bricklayers
+   Keywords: home, autonomously, bricklayers, building, build, single, speed, robot
+
+50. Study finds key role for non neural brain cells in processing vision MIT researchers employed a novel application of tools and analysis to show that astrocytes ensure neural information processing by maintaining ambient levels of the neurotransmitter chemical GABA
+   Keywords: neural, levels, analysis, role, neurotransmitter, processing, mit, novel
+
+51. Oak Ridge s new 3D printer can mix and match materials at massive scale Scientists unveil multiplexed nozzle for next generation 3D printing
+   Keywords: generation, printer, printing, match, unveil, massive, oak ridge, ridge
+
+52. Artificial neuron melds electronics and biology to function like the real thing
+   Keywords: function, electronics, biology, real, thing, artificial, melds, neuron
+
+53. Edible sensor warns of flu by tasting like thyme The molecular sensor contains a phenolic compound called thymol which is found in thyme
+   Keywords: thyme, tasting, sensor, contains, compound, flu, molecular, edible
+
+54. Notorious Alzheimer s protein also supercharges cells against cancer Scientists have found that a byproduct of amyloid beta rejuvenates T cells boosting their tumor fighting power and dramatically reducing cancer risk
+   Keywords: scientists, rejuvenates, risk, cells, boosting, fighting, cancer, dramatically
+
+55. Palladium filters could enable cheaper more efficient generation of hydrogen fuel The novel design allows the membranes to withstand high temperatures when separating hydrogen from gas mixtures
+   Keywords: hydrogen, efficient, enable, withstand, novel, temperatures, generation, separating
+
+56. MIT s concrete battery just got 10 times more powerful Researchers found a way to combine cement water and carbon black to create a supercapacitor expanding the storage capacity by nearly 10 times
+   Keywords: combine, times, powerful, nearly, supercapacitor, battery, storage, create supercapacitor
+
+57. Scientists race to make living computers powered by human cells
+   Keywords: cells, powered, race, scientists, human, computers, living
+
+58. Sugar switch in the brain offers new path to treating depression Removing the St3gal1 enzyme in healthy mice caused depressive symptoms increasing St3gal1 in stressed mice had the opposite effect easing those behaviors
+   Keywords: mice, easing, treating, caused, stressed, increasing, offers, behaviors
+
+59. Smart in asphalt fabric provides live reports from within roads Once embedded in the asphalt the sensor fabric s job is to provide continuous measurements
+   Keywords: asphalt, fabric, measurements, roads, job, reports, sensor, embedded
+
+60. Ocean CO2 becomes sustainable plastic thanks to modified microbes Turning dissolved carbon dioxide from seawater to biodegradable plastic is an especially powerful way to clean up the ocean
+   Keywords: ocean, clean, dioxide, powerful, plastic, turning, sustainable, biodegradable
+
+61. Tiny lab grown brains could help build the next generation of computers Biocomputing has left the realm of science fiction and entered the laboratory
+   Keywords: generation, biocomputing, build, entered, science, brains, laboratory, left
+
+62. New sunlight powered film kills 99 995 bacteria to provide safe drinking water It offers a simple affordable and robust solution to the global safe drinking water crisis
+   Keywords: safe, provide, film, crisis, water, drinking, offers, affordable
+
+63. New daily pill shows strong results in ulcerative colitis clinical trial
+   Keywords: clinical, shows, trial, colitis, daily, pill, results, strong
+
+64. Next gen vaccine prevents up to 88 of multiple aggressive cancers
+   Keywords: prevents, aggressive, cancers, multiple, gen, vaccine
+
+65. Engineered natural killer cells could help fight cancer
+   Keywords: fight, cells, cancer, help, engineered, killer, natural
+
+66. New approach shields memory from brain cancer radiotherapy
+   Keywords: cancer, memory, radiotherapy, brain, approach, shields
+

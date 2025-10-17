@@ -1,0 +1,45 @@
+config2 | k=6 | Cluster 4 - 14 documents
+============================================================
+
+1. Shell promises 10 minute EV charging with its magical battery fluid Shell s thermal management fluid could unlock significantly faster charging for tomorrow s EVs
+   Keywords: evs, battery, fluid, significantly, charging, minute, shell, unlock
+
+2. New system dramatically speeds the search for polymer materials
+   Keywords: speeds, dramatically, search, materials, polymer
+
+3. MIT geologists discover where energy goes during an earthquake Based on mini lab quakes in a controlled setting the findings could help researchers assess the vulnerability of quake prone regions
+   Keywords: based, help, quake, setting, lab, mit, quakes, mini
+
+4. Lighting like pulses turn toxic red mud into building materials Researchers have figured out a way to send electric pulses through the mud to purify it and allow it to be reused instead of discarded
+   Keywords: mud, allow, figured, pulses, purify, electric, materials, turn
+
+5. New tool makes generative AI models more likely to create breakthrough materials With SCIGEN researchers can steer AI models to create materials with exotic properties for applications like quantum computing
+   Keywords: materials, create, models, generative, properties, quantum, steer, applications
+
+6. GE Aerospace flies hypersonic engine with no moving parts
+   Keywords: hypersonic, engine, moving, parts, aerospace, flies
+
+7. AI system learns from many types of scientific information and runs experiments to discover new materials
+   Keywords: materials, learns, types, discover, experiments, information, runs, scientific
+
+8. Technique makes complex 3D printed parts more reliable New research enables computer designs to incorporate the limitations of 3D printers to better control materials performance in aerospace medical and other applications
+   Keywords: applications, designs, better, research, medical, performance, makes complex, technique
+
+9. Spider like construction robot promises to build a home per day Being autonomously capable of building a 2 150 sq ft home in a single day operating at roughly the speed of 100 bricklayers
+   Keywords: home, autonomously, bricklayers, building, build, single, speed, robot
+
+10. Oak Ridge s new 3D printer can mix and match materials at massive scale Scientists unveil multiplexed nozzle for next generation 3D printing
+   Keywords: generation, printer, printing, match, unveil, massive, oak ridge, ridge
+
+11. Parachutes with hundreds of holes could enable safer drone deliveries
+   Keywords: deliveries, enable, holes, hundreds, parachutes, drone, safer
+
+12. Chemists create red fluorescent dyes that may enable clearer biomedical imaging The new dyes are based on boron containing molecules that were previously too unstable for practical use
+   Keywords: biomedical, unstable, containing, dyes, based, fluorescent, imaging, molecules
+
+13. Tiny lab grown brains could help build the next generation of computers Biocomputing has left the realm of science fiction and entered the laboratory
+   Keywords: generation, biocomputing, build, entered, science, brains, laboratory, left
+
+14. Printable aluminum alloy sets strength records may enable lighter aircraft parts
+   Keywords: aircraft, sets, parts, enable, lighter, records, strength, alloy
+

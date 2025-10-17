@@ -1,0 +1,45 @@
+Model 3 | k=5 | Cluster 2 - 14 documents
+============================================================
+
+1. Scientists create solar cells that generate energy from indoor light at record efficiency
+   Keywords: efficiency, energy, light, cells, generate, indoor, record, create
+
+2. We ve glimpsed the secret quantum landscape inside all matter
+   Keywords: matter, glimpsed, landscape, inside, quantum, secret
+
+3. New RNA tool to advance cancer and infectious disease research and treatment
+   Keywords: research, treatment, advance, cancer, rna, tool, disease, infectious
+
+4. New system dramatically speeds the search for polymer materials
+   Keywords: speeds, dramatically, search, materials, polymer
+
+5. Inexpensive New Water Based Liquid Battery Could Replace 10 000 Lithium Systems
+   Keywords: replace, based, lithium, systems, battery, inexpensive, liquid, water
+
+6. A more precise way to edit the genome
+   Keywords: edit, genome, precise
+
+7. Inflammation jolts sleeping cancer cells awake enabling them to multiply again
+   Keywords: multiply, enabling, cancer, awake, cells, inflammation, jolts, sleeping
+
+8. GE Aerospace flies hypersonic engine with no moving parts
+   Keywords: hypersonic, engine, moving, parts, aerospace, flies
+
+9. Microwave weapon downs 49 drones with a single blast In a demonstration not so much of marksmanship but more of the advantages of microwaves
+   Keywords: advantages, demonstration, drones, marksmanship, microwaves, blast, single, downs
+
+10. A boost for the precision of genome editing
+   Keywords: boost, genome, editing, precision
+
+11. Oak Ridge s new 3D printer can mix and match materials at massive scale Scientists unveil multiplexed nozzle for next generation 3D printing
+   Keywords: generation, printer, printing, match, unveil, massive, oak ridge, ridge
+
+12. NASA moon rover project pushes extreme battery tech to its limits
+   Keywords: limits, battery, project, tech, extreme, pushes, moon, nasa
+
+13. Breakthrough blood test detects chronic fatigue in 92 of cases
+   Keywords: cases, detects, chronic, fatigue, blood, breakthrough, test
+
+14. Helping scientists run complex data analyses without writing code
+   Keywords: complex, code, writing, analyses, data, helping, run, scientists
+

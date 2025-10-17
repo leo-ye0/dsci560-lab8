@@ -1,0 +1,105 @@
+config1 | k=4 | Cluster 0 - 34 documents
+============================================================
+
+1. Japan s green light for making human embryos from stem cells takes us into uncharted territory using CRISPR IPSCs and IVF potentially changing our entire species
+   Keywords: entire, stem, human, ipscs, potentially, territory, light, japan green
+
+2. Promising new epilepsy drug delivers 80 reduction in seizures Adults with drug resistant focal onset seizures are the target of experimental epilepsy drug RAP 219
+   Keywords: drug, epilepsy, reduction, seizures, adults, resistant, rap, experimental
+
+3. DNA cassette tape can store every song ever recorded with petabytes to spare For now DNA based storage is still extremely slow for potential industry applications
+   Keywords: dna, song, spare, industry, slow, storage, store, applications
+
+4. This MIT spinout is taking biomolecule storage out of the freezer
+   Keywords: storage, freezer, mit, spinout, biomolecule, taking
+
+5. Lidar helps gas industry find methane leaks and avoid costly losses Lincoln Laboratory transitioned its optical amplifier technology to Bridger Photonics for commercialization enhancing U S energy security and efficiency
+   Keywords: security, leaks, photonics, optical, industry, costly, laboratory, lidar
+
+6. Lidar helps gas industry find methane leaks and avoid costly losses
+   Keywords: costly, leaks, industry, losses, avoid, methane, gas, helps
+
+7. Inexpensive New Water Based Liquid Battery Could Replace 10 000 Lithium Systems
+   Keywords: replace, based, lithium, systems, battery, inexpensive, liquid, water
+
+8. MIT geologists discover where energy goes during an earthquake Based on mini lab quakes in a controlled setting the findings could help researchers assess the vulnerability of quake prone regions
+   Keywords: based, help, quake, setting, lab, mit, quakes, mini
+
+9. Hunger blocking exercise molecule drives weight loss without workouts And the good news is that it could be harnessed as a therapeutic providing the same benefits without the hard work it takes to produce it naturally
+   Keywords: harnessed, loss, therapeutic, produce, benefits, hard, molecule, hunger
+
+10. Swarming drones could overwhelm air defenses changing the future of combat New AI software allows drones to fly and fight as one coordinated force
+   Keywords: drones, combat, fight, overwhelm, changing, fly, future, coordinated
+
+11. Apollo laser takes down 200 drones unplugged
+   Keywords: unplugged, drones, apollo, laser, takes
+
+12. Ozempic killer New drug reprograms metabolism for lasting weight loss A new drug targets weight loss differently leading to a more permanent fat shedding solution
+   Keywords: drug, loss, permanent, solution, weight, ozempic, reprograms, differently
+
+13. New nonstick coating acts like Teflon but without the forever chemicals
+   Keywords: forever, acts, chemicals, teflon, coating, nonstick
+
+14. Nano cubosome eyedrops that can ferry protective compounds all the way to the retina target macular degeneration without needles
+   Keywords: needles, protective, macular, compounds, ferry, degeneration, retina, cubosome
+
+15. MIT engineers develop a magnetic transistor for more energy efficient electronics A new device concept opens the door to compact high performance transistors with built in memory
+   Keywords: performance, built, opens, efficient, device concept, memory, door, electronics
+
+16. GE Aerospace flies hypersonic engine with no moving parts
+   Keywords: hypersonic, engine, moving, parts, aerospace, flies
+
+17. AI system learns from many types of scientific information and runs experiments to discover new materials
+   Keywords: materials, learns, types, discover, experiments, information, runs, scientific
+
+18. Device uses a camera AI and electricity to boost healing time by 25
+   Keywords: healing, electricity, camera, boost, device, uses
+
+19. Slime mold meets encryption in a radical art experiment SlimeMoldCrypt turns a biological process into a quantum resistant encryption machine
+   Keywords: encryption, radical, biological, slimemoldcrypt, machine, process, art, experiment slimemoldcrypt
+
+20. Microwave weapon downs 49 drones with a single blast In a demonstration not so much of marksmanship but more of the advantages of microwaves
+   Keywords: advantages, demonstration, drones, marksmanship, microwaves, blast, single, downs
+
+21. Spider like construction robot promises to build a home per day Being autonomously capable of building a 2 150 sq ft home in a single day operating at roughly the speed of 100 bricklayers
+   Keywords: home, autonomously, bricklayers, building, build, single, speed, robot
+
+22. Study finds key role for non neural brain cells in processing vision MIT researchers employed a novel application of tools and analysis to show that astrocytes ensure neural information processing by maintaining ambient levels of the neurotransmitter chemical GABA
+   Keywords: neural, levels, analysis, role, neurotransmitter, processing, mit, novel
+
+23. Oak Ridge s new 3D printer can mix and match materials at massive scale Scientists unveil multiplexed nozzle for next generation 3D printing
+   Keywords: generation, printer, printing, match, unveil, massive, oak ridge, ridge
+
+24. Palladium filters could enable cheaper more efficient generation of hydrogen fuel The novel design allows the membranes to withstand high temperatures when separating hydrogen from gas mixtures
+   Keywords: hydrogen, efficient, enable, withstand, novel, temperatures, generation, separating
+
+25. This chip uses light to supercharge AI and cut energy use
+   Keywords: energy, light, cut, supercharge, chip, uses
+
+26. Parachutes with hundreds of holes could enable safer drone deliveries
+   Keywords: deliveries, enable, holes, hundreds, parachutes, drone, safer
+
+27. Scientists race to make living computers powered by human cells
+   Keywords: cells, powered, race, scientists, human, computers, living
+
+28. Chemists create red fluorescent dyes that may enable clearer biomedical imaging The new dyes are based on boron containing molecules that were previously too unstable for practical use
+   Keywords: biomedical, unstable, containing, dyes, based, fluorescent, imaging, molecules
+
+29. How Wi Fi Signals Can Be Used to Detect Your Heartbeat Contactless pulse monitoring opens up new wearable possibilities
+   Keywords: signals, possibilities, used, pulse, detect, wearable, contactless, heartbeat
+
+30. Tiny lab grown brains could help build the next generation of computers Biocomputing has left the realm of science fiction and entered the laboratory
+   Keywords: generation, biocomputing, build, entered, science, brains, laboratory, left
+
+31. Printable aluminum alloy sets strength records may enable lighter aircraft parts
+   Keywords: aircraft, sets, parts, enable, lighter, records, strength, alloy
+
+32. Engineered natural killer cells could help fight cancer
+   Keywords: fight, cells, cancer, help, engineered, killer, natural
+
+33. Naked mole rat DNA repair could unlock natural human longevity
+   Keywords: longevity, unlock, dna, repair, human, natural, mole, naked
+
+34. Helping scientists run complex data analyses without writing code
+   Keywords: complex, code, writing, analyses, data, helping, run, scientists
+

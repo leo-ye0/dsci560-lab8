@@ -1,0 +1,108 @@
+Model 1 | k=5 | Cluster 4 - 35 documents
+============================================================
+
+1. No wearables needed researchers use WiFi and Raspberry Pi to measure your heart rate in real time Matching clinical accuracy within seconds
+   Keywords: seconds, researchers, raspberry, heart, clinical, real, measure, accuracy
+
+2. Glue gun prints bone grafts directly onto fractures during surgery A modified glue gun prints bone grafts directly onto fractures during surgery
+   Keywords: surgery, bone, fractures, glue, directly, grafts, gun, prints
+
+3. World s first koala chlamydia vaccine approved for rollout across country Vaccine will protect koalas from the widespread disease that causes painful urinary tract infections infertility blindness and death
+   Keywords: disease, koala, vaccine, approved, painful, infections, rollout, koalas
+
+4. Breakthrough 3D printing methods bring artificial skin tissue closer to reality Swedish research team pioneers methods to print skin with functioning blood vessels
+   Keywords: skin, methods, blood, research, artificial, print, printing, tissue
+
+5. Technology originating at MIT leads to approved bladder cancer treatment
+   Keywords: treatment, mit, approved, leads, originating, technology, bladder, cancer
+
+6. Promising new epilepsy drug delivers 80 reduction in seizures Adults with drug resistant focal onset seizures are the target of experimental epilepsy drug RAP 219
+   Keywords: drug, epilepsy, reduction, seizures, adults, resistant, rap, experimental
+
+7. DNA cassette tape can store every song ever recorded with petabytes to spare For now DNA based storage is still extremely slow for potential industry applications
+   Keywords: dna, song, spare, industry, slow, storage, store, applications
+
+8. New pathway engineered into plants lets them suck up more CO2 Engineered pathway lets carbon be plugged directly into key metabolic pathways
+   Keywords: pathways, pathway, engineered, suck, lets, plants, directly, plugged
+
+9. New RNA tool to advance cancer and infectious disease research and treatment
+   Keywords: research, treatment, advance, cancer, rna, tool, disease, infectious
+
+10. Saab s compact Nimbrix missile takes down drone swarms Inexpensive system for handling small drones individually or in swarms at a range of up to 2 7 nautical miles 3 1 miles 5 km
+   Keywords: range, miles, nautical, swarms, inexpensive, individually, handling, nimbrix
+
+11. FDA approves first nasal spray diuretic for heart liver and kidney disease Aiming to prevent a common and costly issue that results in more than a million hospitalizations each year
+   Keywords: hospitalizations, costly, results, aiming, nasal, prevent, diuretic, fda
+
+12. Machine learning tool gives doctors a more detailed 3D picture of fetal health
+   Keywords: health, picture, gives, detailed, doctors, fetal, learning, machine
+
+13. MIT geologists discover where energy goes during an earthquake Based on mini lab quakes in a controlled setting the findings could help researchers assess the vulnerability of quake prone regions
+   Keywords: based, help, quake, setting, lab, mit, quakes, mini
+
+14. Easy test identifies high stress levels in kids living with chronic illness By testing for the stress hormone cortisol in hair researchers can identify kids with chronic illness who face the greatest risk of anxiety depression or behavioral struggles
+   Keywords: illness, kids, cortisol, researchers, stress, chronic, anxiety, risk
+
+15. Meta launches smart glasses with built in display reaching for superintelligence
+   Keywords: superintelligence, glasses, built, display, reaching, launches, meta, smart
+
+16. Common daily pill slashes colorectal cancer s return by 55 A study involving more than 1 000 cancer patients has found that a low dose of aspirin halves the risk of colorectal tumors returning after surgery
+   Keywords: patients, involving, dose, halves, cancer, returning, colorectal, return
+
+17. By knocking out a protein duo s bodyguard role researchers have exposed a hidden weakness in pancreatic cancer It s a discovery that could lead to smarter more effective treatments for one of the deadliest cancers
+   Keywords: discovery, lead, knocking, researchers, effective, hidden, pancreatic, exposed
+
+18. Ozempic killer New drug reprograms metabolism for lasting weight loss A new drug targets weight loss differently leading to a more permanent fat shedding solution
+   Keywords: drug, loss, permanent, solution, weight, ozempic, reprograms, differently
+
+19. New tool makes generative AI models more likely to create breakthrough materials With SCIGEN researchers can steer AI models to create materials with exotic properties for applications like quantum computing
+   Keywords: materials, create, models, generative, properties, quantum, steer, applications
+
+20. New 3D bioprinting technique may improve production of engineered tissue
+   Keywords: tissue, technique, production, bioprinting, engineered, improve
+
+21. UV light is a fast effective way to deactivate indoor airborne allergens UV222 light is a passive quick way to inactivate indoor airborne allergens like cat dander
+   Keywords: light, indoor, airborne, allergens, deactivate, inactivate, cat, dander
+
+22. Low dose radiation relieves knee osteoarthritis pain improves function
+   Keywords: pain, relieves, function, improves, knee, osteoarthritis, dose, low
+
+23. Oak Ridge s new 3D printer can mix and match materials at massive scale Scientists unveil multiplexed nozzle for next generation 3D printing
+   Keywords: generation, printer, printing, match, unveil, massive, oak ridge, ridge
+
+24. Artificial neuron melds electronics and biology to function like the real thing
+   Keywords: function, electronics, biology, real, thing, artificial, melds, neuron
+
+25. Notorious Alzheimer s protein also supercharges cells against cancer Scientists have found that a byproduct of amyloid beta rejuvenates T cells boosting their tumor fighting power and dramatically reducing cancer risk
+   Keywords: scientists, rejuvenates, risk, cells, boosting, fighting, cancer, dramatically
+
+26. Next gen imaging tech could catch sight stealing diseases early A powerful new imaging tool offers unprecedented 3D vision of the retina
+   Keywords: retina, vision, early, tech, imaging, offers, sight, powerful
+
+27. A groundbreaking study has revealed that your mom and dad s DNA don t just pass on telomere length they actively reshape it in the first days of life influencing how we age and our risk of developing diseases such as cancer
+   Keywords: reshape, dad, length, influencing, revealed, risk, don, pass
+
+28. Scientists race to make living computers powered by human cells
+   Keywords: cells, powered, race, scientists, human, computers, living
+
+29. Sugar switch in the brain offers new path to treating depression Removing the St3gal1 enzyme in healthy mice caused depressive symptoms increasing St3gal1 in stressed mice had the opposite effect easing those behaviors
+   Keywords: mice, easing, treating, caused, stressed, increasing, offers, behaviors
+
+30. Printable aluminum alloy sets strength records may enable lighter aircraft parts
+   Keywords: aircraft, sets, parts, enable, lighter, records, strength, alloy
+
+31. New sunlight powered film kills 99 995 bacteria to provide safe drinking water It offers a simple affordable and robust solution to the global safe drinking water crisis
+   Keywords: safe, provide, film, crisis, water, drinking, offers, affordable
+
+32. Breakthrough blood test detects chronic fatigue in 92 of cases
+   Keywords: cases, detects, chronic, fatigue, blood, breakthrough, test
+
+33. Next gen vaccine prevents up to 88 of multiple aggressive cancers
+   Keywords: prevents, aggressive, cancers, multiple, gen, vaccine
+
+34. Engineered natural killer cells could help fight cancer
+   Keywords: fight, cells, cancer, help, engineered, killer, natural
+
+35. Helping scientists run complex data analyses without writing code
+   Keywords: complex, code, writing, analyses, data, helping, run, scientists
+

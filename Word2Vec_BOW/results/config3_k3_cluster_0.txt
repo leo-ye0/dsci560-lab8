@@ -1,0 +1,117 @@
+config3 | k=3 | Cluster 0 - 38 documents
+============================================================
+
+1. A single fecal transplant provides years of health benefits A capsule full of healthy gut bacteria provided obese teens with health benefits for years
+   Keywords: benefits, health, bacteria, years, transplant, teens, gut, fecal transplant
+
+2. Scientists create solar cells that generate energy from indoor light at record efficiency
+   Keywords: efficiency, energy, light, cells, generate, indoor, record, create
+
+3. China s CATL launches new sodium ion battery brand
+   Keywords: ion, launches, sodium, battery, brand, catl, china
+
+4. Scientists unlock way to harness terahertz light for advanced technologies New light control method may lead to faster wireless and quantum devices
+   Keywords: devices, light, lead, wireless, control, technologies, method, scientists
+
+5. Promising new epilepsy drug delivers 80 reduction in seizures Adults with drug resistant focal onset seizures are the target of experimental epilepsy drug RAP 219
+   Keywords: drug, epilepsy, reduction, seizures, adults, resistant, rap, experimental
+
+6. DNA cassette tape can store every song ever recorded with petabytes to spare For now DNA based storage is still extremely slow for potential industry applications
+   Keywords: dna, song, spare, industry, slow, storage, store, applications
+
+7. We ve glimpsed the secret quantum landscape inside all matter
+   Keywords: matter, glimpsed, landscape, inside, quantum, secret
+
+8. This MIT spinout is taking biomolecule storage out of the freezer
+   Keywords: storage, freezer, mit, spinout, biomolecule, taking
+
+9. New system dramatically speeds the search for polymer materials
+   Keywords: speeds, dramatically, search, materials, polymer
+
+10. Caged drugs still STING cancer but make treatment much safer The new drug delivery system only activates when inside a tumor and calls upon the body s own immune system to destroy it
+   Keywords: inside, safer, drug, body, calls, destroy, immune, sting
+
+11. Machine learning tool gives doctors a more detailed 3D picture of fetal health
+   Keywords: health, picture, gives, detailed, doctors, fetal, learning, machine
+
+12. MIT geologists discover where energy goes during an earthquake Based on mini lab quakes in a controlled setting the findings could help researchers assess the vulnerability of quake prone regions
+   Keywords: based, help, quake, setting, lab, mit, quakes, mini
+
+13. Lighting like pulses turn toxic red mud into building materials Researchers have figured out a way to send electric pulses through the mud to purify it and allow it to be reused instead of discarded
+   Keywords: mud, allow, figured, pulses, purify, electric, materials, turn
+
+14. Meta launches smart glasses with built in display reaching for superintelligence
+   Keywords: superintelligence, glasses, built, display, reaching, launches, meta, smart
+
+15. AI designed viruses are here and already killing bacteria Can AI create a life form These generative genomes are a start
+   Keywords: create, form, start, bacteria, designed, generative, genomes, killing
+
+16. Ozempic killer New drug reprograms metabolism for lasting weight loss A new drug targets weight loss differently leading to a more permanent fat shedding solution
+   Keywords: drug, loss, permanent, solution, weight, ozempic, reprograms, differently
+
+17. New tool makes generative AI models more likely to create breakthrough materials With SCIGEN researchers can steer AI models to create materials with exotic properties for applications like quantum computing
+   Keywords: materials, create, models, generative, properties, quantum, steer, applications
+
+18. Enzyme behind diet induced obesity and diabetes can be switched off Switching off an enzyme in mice prevented diet induced obesity and improved metabolism
+   Keywords: enzyme, induced, diet, switched, diabetes, obesity, switching, improved
+
+19. MIT engineers develop a magnetic transistor for more energy efficient electronics A new device concept opens the door to compact high performance transistors with built in memory
+   Keywords: performance, built, opens, efficient, device concept, memory, door, electronics
+
+20. GE Aerospace flies hypersonic engine with no moving parts
+   Keywords: hypersonic, engine, moving, parts, aerospace, flies
+
+21. AI system learns from many types of scientific information and runs experiments to discover new materials
+   Keywords: materials, learns, types, discover, experiments, information, runs, scientific
+
+22. Technique makes complex 3D printed parts more reliable New research enables computer designs to incorporate the limitations of 3D printers to better control materials performance in aerospace medical and other applications
+   Keywords: applications, designs, better, research, medical, performance, makes complex, technique
+
+23. New 3D bioprinting technique may improve production of engineered tissue
+   Keywords: tissue, technique, production, bioprinting, engineered, improve
+
+24. Slime mold meets encryption in a radical art experiment SlimeMoldCrypt turns a biological process into a quantum resistant encryption machine
+   Keywords: encryption, radical, biological, slimemoldcrypt, machine, process, art, experiment slimemoldcrypt
+
+25. UV light is a fast effective way to deactivate indoor airborne allergens UV222 light is a passive quick way to inactivate indoor airborne allergens like cat dander
+   Keywords: light, indoor, airborne, allergens, deactivate, inactivate, cat, dander
+
+26. Oak Ridge s new 3D printer can mix and match materials at massive scale Scientists unveil multiplexed nozzle for next generation 3D printing
+   Keywords: generation, printer, printing, match, unveil, massive, oak ridge, ridge
+
+27. Edible sensor warns of flu by tasting like thyme The molecular sensor contains a phenolic compound called thymol which is found in thyme
+   Keywords: thyme, tasting, sensor, contains, compound, flu, molecular, edible
+
+28. Palladium filters could enable cheaper more efficient generation of hydrogen fuel The novel design allows the membranes to withstand high temperatures when separating hydrogen from gas mixtures
+   Keywords: hydrogen, efficient, enable, withstand, novel, temperatures, generation, separating
+
+29. This chip uses light to supercharge AI and cut energy use
+   Keywords: energy, light, cut, supercharge, chip, uses
+
+30. MIT s concrete battery just got 10 times more powerful Researchers found a way to combine cement water and carbon black to create a supercapacitor expanding the storage capacity by nearly 10 times
+   Keywords: combine, times, powerful, nearly, supercapacitor, battery, storage, create supercapacitor
+
+31. Parachutes with hundreds of holes could enable safer drone deliveries
+   Keywords: deliveries, enable, holes, hundreds, parachutes, drone, safer
+
+32. Sugar switch in the brain offers new path to treating depression Removing the St3gal1 enzyme in healthy mice caused depressive symptoms increasing St3gal1 in stressed mice had the opposite effect easing those behaviors
+   Keywords: mice, easing, treating, caused, stressed, increasing, offers, behaviors
+
+33. Smart in asphalt fabric provides live reports from within roads Once embedded in the asphalt the sensor fabric s job is to provide continuous measurements
+   Keywords: asphalt, fabric, measurements, roads, job, reports, sensor, embedded
+
+34. Chemists create red fluorescent dyes that may enable clearer biomedical imaging The new dyes are based on boron containing molecules that were previously too unstable for practical use
+   Keywords: biomedical, unstable, containing, dyes, based, fluorescent, imaging, molecules
+
+35. How Wi Fi Signals Can Be Used to Detect Your Heartbeat Contactless pulse monitoring opens up new wearable possibilities
+   Keywords: signals, possibilities, used, pulse, detect, wearable, contactless, heartbeat
+
+36. Tiny lab grown brains could help build the next generation of computers Biocomputing has left the realm of science fiction and entered the laboratory
+   Keywords: generation, biocomputing, build, entered, science, brains, laboratory, left
+
+37. Printable aluminum alloy sets strength records may enable lighter aircraft parts
+   Keywords: aircraft, sets, parts, enable, lighter, records, strength, alloy
+
+38. New sunlight powered film kills 99 995 bacteria to provide safe drinking water It offers a simple affordable and robust solution to the global safe drinking water crisis
+   Keywords: safe, provide, film, crisis, water, drinking, offers, affordable
+

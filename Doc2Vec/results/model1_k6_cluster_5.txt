@@ -1,0 +1,12 @@
+Model 1 | k=6 | Cluster 5 - 3 documents
+============================================================
+
+1. Psychedelic DMT shows promise as breakthrough stroke treatment
+   Keywords: stroke, promise, treatment, breakthrough, dmt, psychedelic, shows
+
+2. Forged in disorder High entropy MXenes emerge as a new material
+   Keywords: emerge, material, disorder, forged, entropy, mxenes
+
+3. Two pronged approach cuts sleep apnea events by 68
+   Keywords: events, cuts, approach, pronged, apnea, sleep
+

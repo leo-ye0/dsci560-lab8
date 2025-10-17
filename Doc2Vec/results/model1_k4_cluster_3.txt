@@ -1,0 +1,24 @@
+Model 1 | k=4 | Cluster 3 - 7 documents
+============================================================
+
+1. New electric car battery could last 600 000 miles and recharge in minutes
+   Keywords: minutes, battery, miles, recharge, car, electric
+
+2. We ve glimpsed the secret quantum landscape inside all matter
+   Keywords: matter, glimpsed, landscape, inside, quantum, secret
+
+3. This MIT spinout is taking biomolecule storage out of the freezer
+   Keywords: storage, freezer, mit, spinout, biomolecule, taking
+
+4. New system dramatically speeds the search for polymer materials
+   Keywords: speeds, dramatically, search, materials, polymer
+
+5. GE Aerospace flies hypersonic engine with no moving parts
+   Keywords: hypersonic, engine, moving, parts, aerospace, flies
+
+6. NASA moon rover project pushes extreme battery tech to its limits
+   Keywords: limits, battery, project, tech, extreme, pushes, moon, nasa
+
+7. Psychedelic DMT shows promise as breakthrough stroke treatment
+   Keywords: stroke, promise, treatment, breakthrough, dmt, psychedelic, shows
+

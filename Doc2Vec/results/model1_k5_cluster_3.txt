@@ -1,0 +1,21 @@
+Model 1 | k=5 | Cluster 3 - 6 documents
+============================================================
+
+1. China s CATL launches new sodium ion battery brand
+   Keywords: ion, launches, sodium, battery, brand, catl, china
+
+2. Apollo laser takes down 200 drones unplugged
+   Keywords: unplugged, drones, apollo, laser, takes
+
+3. A more precise way to edit the genome
+   Keywords: edit, genome, precise
+
+4. New nonstick coating acts like Teflon but without the forever chemicals
+   Keywords: forever, acts, chemicals, teflon, coating, nonstick
+
+5. Forged in disorder High entropy MXenes emerge as a new material
+   Keywords: emerge, material, disorder, forged, entropy, mxenes
+
+6. Naked mole rat DNA repair could unlock natural human longevity
+   Keywords: longevity, unlock, dna, repair, human, natural, mole, naked
+

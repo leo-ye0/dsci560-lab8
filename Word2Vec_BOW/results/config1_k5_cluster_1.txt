@@ -1,0 +1,69 @@
+config1 | k=5 | Cluster 1 - 22 documents
+============================================================
+
+1. No wearables needed researchers use WiFi and Raspberry Pi to measure your heart rate in real time Matching clinical accuracy within seconds
+   Keywords: seconds, researchers, raspberry, heart, clinical, real, measure, accuracy
+
+2. Scientists create solar cells that generate energy from indoor light at record efficiency
+   Keywords: efficiency, energy, light, cells, generate, indoor, record, create
+
+3. Artificial cartilage senses arthritis pain then morphs to block it A squishy cartilage like material can be loaded up with either long term or short term pain killers that are released when the material senses chemical stress from arthritis
+   Keywords: material, cartilage, arthritis, released, morphs, killers, short, term
+
+4. Scientists unlock way to harness terahertz light for advanced technologies New light control method may lead to faster wireless and quantum devices
+   Keywords: devices, light, lead, wireless, control, technologies, method, scientists
+
+5. New electric car battery could last 600 000 miles and recharge in minutes
+   Keywords: minutes, battery, miles, recharge, car, electric
+
+6. Shell promises 10 minute EV charging with its magical battery fluid Shell s thermal management fluid could unlock significantly faster charging for tomorrow s EVs
+   Keywords: evs, battery, fluid, significantly, charging, minute, shell, unlock
+
+7. Saab s compact Nimbrix missile takes down drone swarms Inexpensive system for handling small drones individually or in swarms at a range of up to 2 7 nautical miles 3 1 miles 5 km
+   Keywords: range, miles, nautical, swarms, inexpensive, individually, handling, nimbrix
+
+8. Lighting like pulses turn toxic red mud into building materials Researchers have figured out a way to send electric pulses through the mud to purify it and allow it to be reused instead of discarded
+   Keywords: mud, allow, figured, pulses, purify, electric, materials, turn
+
+9. By knocking out a protein duo s bodyguard role researchers have exposed a hidden weakness in pancreatic cancer It s a discovery that could lead to smarter more effective treatments for one of the deadliest cancers
+   Keywords: discovery, lead, knocking, researchers, effective, hidden, pancreatic, exposed
+
+10. A more precise way to edit the genome
+   Keywords: edit, genome, precise
+
+11. Key HIV weakness could pave way for a cure Scientists now know how HIV integrates into the human genome
+   Keywords: genome, scientists, pave, hiv, cure, human, integrates, know
+
+12. New tool makes generative AI models more likely to create breakthrough materials With SCIGEN researchers can steer AI models to create materials with exotic properties for applications like quantum computing
+   Keywords: materials, create, models, generative, properties, quantum, steer, applications
+
+13. New biodegradable film made from onion skins can boost solar panel lifespan Renewable solar cell filters stay effective after simulated year of use
+   Keywords: solar, skins, simulated, filters, biodegradable, film, effective, onion
+
+14. Smartphone Cameras Go Hyperspectral Off the shelf smartphone cameras can become advanced sensors
+   Keywords: sensors, hyperspectral, shelf, cameras, smartphone, advanced
+
+15. Study shows mucus contains molecules that block Salmonella infection MIT researchers now hope to develop synthetic versions of these molecules which could be used to treat or prevent foodborne illnesses
+   Keywords: molecules, synthetic, hope, prevent, block, contains, mit, treat
+
+16. UV light is a fast effective way to deactivate indoor airborne allergens UV222 light is a passive quick way to inactivate indoor airborne allergens like cat dander
+   Keywords: light, indoor, airborne, allergens, deactivate, inactivate, cat, dander
+
+17. Low dose radiation relieves knee osteoarthritis pain improves function
+   Keywords: pain, relieves, function, improves, knee, osteoarthritis, dose, low
+
+18. A boost for the precision of genome editing
+   Keywords: boost, genome, editing, precision
+
+19. Artificial neuron melds electronics and biology to function like the real thing
+   Keywords: function, electronics, biology, real, thing, artificial, melds, neuron
+
+20. MIT s concrete battery just got 10 times more powerful Researchers found a way to combine cement water and carbon black to create a supercapacitor expanding the storage capacity by nearly 10 times
+   Keywords: combine, times, powerful, nearly, supercapacitor, battery, storage, create supercapacitor
+
+21. NASA moon rover project pushes extreme battery tech to its limits
+   Keywords: limits, battery, project, tech, extreme, pushes, moon, nasa
+
+22. Forged in disorder High entropy MXenes emerge as a new material
+   Keywords: emerge, material, disorder, forged, entropy, mxenes
+

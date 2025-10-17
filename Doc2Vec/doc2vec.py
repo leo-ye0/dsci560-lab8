@@ -31,7 +31,8 @@ def return_embeddings(models):
 
 def save_document_clusters(df, labels, model_idx, k):
     """Save document clusters to text files"""
-    results_dir = 'Doc2Vec/results'
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    results_dir = os.path.join(base_dir, 'results')
     os.makedirs(results_dir, exist_ok=True)
     
     for cluster_id in range(max(labels) + 1):
@@ -80,8 +81,9 @@ def cluster(embeddings, configs, output_dir, df, k_range=(3, 6)):
         i += 1
     
 if __name__ == '__main__':
-    path = 'data/posts.csv'
-    df = pd.read_csv(path)
+    base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    data_path = os.path.join(base_dir, 'data', 'posts.csv')
+    df = pd.read_csv(data_path)
     titles = df.title.tolist()
 
     documents = [gensim.models.doc2vec.TaggedDocument(preprocessing(doc), [i]) for i, doc in enumerate(titles)]
@@ -93,6 +95,7 @@ if __name__ == '__main__':
     models = train(documents, configs)
     embeddings = return_embeddings(models)    
 
-    output_dir = 'Doc2Vec/clusters'
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    output_dir = os.path.join(script_dir, 'clusters')
     os.makedirs(output_dir, exist_ok=True)
     cluster(embeddings, configs, output_dir, df)

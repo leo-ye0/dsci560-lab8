@@ -186,7 +186,8 @@ class Word2VecBOW:
         plt.title('Silhouette Score for Optimal k')
         plt.legend()
         plt.grid(True)
-        plt.savefig('/home/yutaoye/Desktop/dsci560-lab8/Word2Vec_BOW/silhouette_plot.png')
+        base_dir = os.path.dirname(os.path.abspath(__file__))
+        plt.savefig(os.path.join(base_dir, 'silhouette_plot.png'))
         plt.show()
         
         print(f"Optimal k found: {self.optimal_k}")
@@ -215,7 +216,8 @@ class Word2VecBOW:
         plt.ylabel('PCA Component 2')
         plt.tight_layout()
         
-        clusters_dir = '/home/yutaoye/Desktop/dsci560-lab8/Word2Vec_BOW/clusters'
+        base_dir = os.path.dirname(os.path.abspath(__file__))
+        clusters_dir = os.path.join(base_dir, 'clusters')
         os.makedirs(clusters_dir, exist_ok=True)
         
         filename = f'{config_name}_k{k_value}_sil{score:.3f}.png'
@@ -275,7 +277,8 @@ class Word2VecBOW:
     
     def save_document_clusters(self, df, doc_cluster_labels, config_name, k):
         """Save document clusters to text files"""
-        results_dir = '/home/yutaoye/Desktop/dsci560-lab8/Word2Vec_BOW/results'
+        base_dir = os.path.dirname(os.path.abspath(__file__))
+        results_dir = os.path.join(base_dir, 'results')
         os.makedirs(results_dir, exist_ok=True)
         
         for cluster_id in range(max(doc_cluster_labels) + 1):
@@ -294,7 +297,9 @@ class Word2VecBOW:
 
 def main():
     print("Loading posts.csv...")
-    df = pd.read_csv('/home/yutaoye/Desktop/dsci560-lab8/data/posts.csv')
+    base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    data_path = os.path.join(base_dir, 'data', 'posts.csv')
+    df = pd.read_csv(data_path)
     print(f"Loaded {len(df)} posts")
     configs = [
         {'vector_size': 10, 'min_count': 2, 'epochs': 40, 'window': 5},

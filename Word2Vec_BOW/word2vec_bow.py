@@ -6,12 +6,14 @@ from sklearn.manifold import TSNE
 from sklearn.decomposition import PCA
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.preprocessing import normalize
+from sklearn.metrics import silhouette_score
 import re
 import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import matplotlib.pyplot as plt
 from collections import Counter
+import os
 
 # Download required NLTK data
 try:
@@ -25,9 +27,12 @@ except LookupError:
     nltk.download('stopwords')
 
 class Word2VecBOW:
-    def __init__(self, k_bins=15, vector_size=300):
+    def __init__(self, k_bins=15, vector_size=300, min_count=2, epochs=40, window=5):
         self.k_bins = k_bins
         self.vector_size = vector_size
+        self.min_count = min_count
+        self.epochs = epochs
+        self.window = window
         self.word2vec_model = None
         self.kmeans = None
         self.word_to_cluster = {}
@@ -72,8 +77,9 @@ class Word2VecBOW:
         self.word2vec_model = Word2Vec(
             sentences=corpus,
             vector_size=self.vector_size,
-            window=5,
-            min_count=2,
+            window=self.window,
+            min_count=self.min_count,
+            epochs=self.epochs,
             workers=4,
             sg=1
         )
@@ -142,7 +148,7 @@ class Word2VecBOW:
         
         print("\nCluster Analysis (showing first 10 clusters):")
         for cluster_id in sorted(cluster_analysis.keys())[:10]:
-            words = cluster_analysis[cluster_id][:10]  # Show first 10 words
+            words = cluster_analysis[cluster_id][:10]
             print(f"Cluster {cluster_id}: {', '.join(words)}")
         
         return cluster_analysis
@@ -156,119 +162,93 @@ class Word2VecBOW:
         word_vectors = np.array([self.word2vec_model.wv[word] for word in words])
         
         if k_range is None:
-            k_range = range(5, min(26, len(words)//3))
+            k_range = range(3, 7)
         
-        inertias = []
+        
+        silhouette_scores = []
         k_values = list(k_range)
         
         print(f"Testing k values: {k_values}")
         
         for k in k_values:
             kmeans = KMeans(n_clusters=k, random_state=42, n_init=10)
-            kmeans.fit(word_vectors)
-            inertias.append(kmeans.inertia_)
+            cluster_labels = kmeans.fit_predict(word_vectors)
+            score = silhouette_score(word_vectors, cluster_labels)
+            silhouette_scores.append(score)
         
-        # Find elbow point
-        diffs = np.diff(inertias)
-        diffs2 = np.diff(diffs)
-        elbow_idx = np.argmax(diffs2) + 1
-        self.optimal_k = k_values[elbow_idx]
-        
-        # Plot elbow curve
+        best_idx = np.argmax(silhouette_scores)
+        self.optimal_k = k_values[best_idx]
         plt.figure(figsize=(10, 6))
-        plt.plot(k_values, inertias, 'bo-')
+        plt.plot(k_values, silhouette_scores, 'bo-')
         plt.axvline(x=self.optimal_k, color='r', linestyle='--', label=f'Optimal k={self.optimal_k}')
         plt.xlabel('Number of clusters (k)')
-        plt.ylabel('Inertia')
-        plt.title('Elbow Method for Optimal k')
+        plt.ylabel('Silhouette Score')
+        plt.title('Silhouette Score for Optimal k')
         plt.legend()
         plt.grid(True)
-        plt.savefig('/home/yutaoye/Desktop/dsci560-lab8/Word2Vec_BOW/elbow_plot.png')
+        plt.savefig('/home/yutaoye/Desktop/dsci560-lab8/Word2Vec_BOW/silhouette_plot.png')
         plt.show()
         
         print(f"Optimal k found: {self.optimal_k}")
-        return self.optimal_k, inertias
+        return self.optimal_k, silhouette_scores
     
-    def visualize_word_clusters(self, method='both', max_words=500):
+    def visualize_word_clusters(self, max_words=500):
         """Visualize word clusters using t-SNE and/or PCA"""
         if not self.word2vec_model or not self.word_to_cluster:
             raise ValueError("Word2Vec model not trained or words not clustered yet")
         
-        # Get word vectors and labels
-        words = list(self.word2vec_model.wv.index_to_key)[:max_words]
-        word_vectors = np.array([self.word2vec_model.wv[word] for word in words])
-        cluster_labels = [self.word_to_cluster[word] for word in words]
-        
-        if method in ['tsne', 'both']:
-            self._plot_tsne(word_vectors, cluster_labels, words)
-        
-        if method in ['pca', 'both']:
-            self._plot_pca(word_vectors, cluster_labels, words)
+        pass
     
-    def _plot_tsne(self, word_vectors, cluster_labels, words):
-        """Create t-SNE visualization of word clusters"""
-        print("Creating t-SNE visualization...")
-        
-        # Apply t-SNE
-        tsne = TSNE(n_components=2, random_state=42, perplexity=30)
-        word_vectors_2d = tsne.fit_transform(word_vectors)
-        
-        # Create plot
-        plt.figure(figsize=(12, 8))
-        scatter = plt.scatter(word_vectors_2d[:, 0], word_vectors_2d[:, 1], 
-                            c=cluster_labels, cmap='tab10', alpha=0.7, s=50)
-        
-        # Add word labels for a subset of points
-        for i in range(0, len(words), max(1, len(words)//50)):
-            plt.annotate(words[i], (word_vectors_2d[i, 0], word_vectors_2d[i, 1]),
-                        xytext=(5, 5), textcoords='offset points', 
-                        fontsize=8, alpha=0.7)
-        
-        plt.colorbar(scatter, label='Cluster ID')
-        plt.title(f'Word Clusters Visualization (t-SNE)\nk={self.k_bins} clusters')
-        plt.xlabel('t-SNE Component 1')
-        plt.ylabel('t-SNE Component 2')
-        plt.grid(True, alpha=0.3)
-        
-        plt.savefig('/home/yutaoye/Desktop/dsci560-lab8/Word2Vec_BOW/word_clusters_tsne.png', 
-                   dpi=300, bbox_inches='tight')
-        plt.show()
+
     
-    def _plot_pca(self, word_vectors, cluster_labels, words):
+    def _plot_pca(self, word_vectors, cluster_labels, words, config_name, k_value):
         """Create PCA visualization of word clusters"""
         print("Creating PCA visualization...")
         
-        # Apply PCA
         pca = PCA(n_components=2, random_state=42)
         word_vectors_2d = pca.fit_transform(word_vectors)
-        
-        # Create plot
         plt.figure(figsize=(12, 8))
         scatter = plt.scatter(word_vectors_2d[:, 0], word_vectors_2d[:, 1], 
                             c=cluster_labels, cmap='tab10', alpha=0.7, s=50)
         
-        # Add word labels for a subset of points
         for i in range(0, len(words), max(1, len(words)//50)):
             plt.annotate(words[i], (word_vectors_2d[i, 0], word_vectors_2d[i, 1]),
                         xytext=(5, 5), textcoords='offset points', 
                         fontsize=8, alpha=0.7)
         
         plt.colorbar(scatter, label='Cluster ID')
-        plt.title(f'Word Clusters Visualization (PCA)\nk={self.k_bins} clusters\n'
+        plt.title(f'Word Clusters Visualization (PCA)\n{config_name}, k={k_value} clusters\n'
                  f'Explained variance: {pca.explained_variance_ratio_[0]:.2%} + {pca.explained_variance_ratio_[1]:.2%}')
         plt.xlabel(f'PC1 ({pca.explained_variance_ratio_[0]:.2%} variance)')
         plt.ylabel(f'PC2 ({pca.explained_variance_ratio_[1]:.2%} variance)')
         plt.grid(True, alpha=0.3)
         
-        plt.savefig('/home/yutaoye/Desktop/dsci560-lab8/Word2Vec_BOW/word_clusters_pca.png', 
+        clusters_dir = '/home/yutaoye/Desktop/dsci560-lab8/Word2Vec_BOW/clusters'
+        os.makedirs(clusters_dir, exist_ok=True)
+        
+        plt.savefig(f'{clusters_dir}/{config_name}_k{k_value}_pca.png', 
                    dpi=300, bbox_inches='tight')
-        plt.show()
+        plt.close()
+    
+    def generate_all_k_visualizations(self, config_name, max_words=500):
+        """Generate PCA visualizations for all k values"""
+        if not self.word2vec_model:
+            raise ValueError("Word2Vec model not trained yet")
+        
+        words = list(self.word2vec_model.wv.index_to_key)[:max_words]
+        word_vectors = np.array([self.word2vec_model.wv[word] for word in words])
+        
+        for k in range(3, 7):
+            print(f"Generating visualization for k={k}...")
+            
+            kmeans = KMeans(n_clusters=k, random_state=42, n_init=10)
+            cluster_labels = kmeans.fit_predict(word_vectors)
+            self._plot_pca(word_vectors, cluster_labels, words, config_name, k)
     
     def cluster_documents_cosine(self, bow_matrix, n_clusters=5):
         """Cluster documents using cosine distance metric"""
         print(f"Clustering {len(bow_matrix)} documents into {n_clusters} clusters using cosine distance...")
         
-        # Use KMeans with cosine distance (equivalent to using normalized vectors with euclidean)
         normalized_vectors = normalize(bow_matrix, norm='l2')
         
         kmeans = KMeans(n_clusters=n_clusters, random_state=42, n_init=10)
@@ -284,12 +264,9 @@ class Word2VecBOW:
             cluster_docs = df[doc_cluster_labels == cluster_id]
             print(f"\nCluster {cluster_id} ({len(cluster_docs)} documents):")
             
-            # Show sample titles
             sample_titles = cluster_docs['title'].head(5).tolist()
             for i, title in enumerate(sample_titles):
                 print(f"  {i+1}. {title}")
-            
-            # Show common keywords if available
             if 'keywords' in df.columns:
                 all_keywords = ' '.join(cluster_docs['keywords'].dropna().astype(str))
                 if all_keywords:
@@ -297,67 +274,73 @@ class Word2VecBOW:
                     common_keywords = Counter(keywords_list).most_common(5)
                     print(f"  Common keywords: {[kw for kw, count in common_keywords]}")
             
-            # Show cluster characteristics
             print(f"  Avg title length: {cluster_docs['title'].str.len().mean():.1f} chars")
             if len(cluster_docs) > 1:
                 print(f"  Title diversity: {len(set(cluster_docs['title'].str.lower()))/len(cluster_docs):.2f}")
         
         return doc_cluster_labels
+    
+    def save_document_clusters(self, df, doc_cluster_labels, config_name):
+        """Save document clusters to text files"""
+        results_dir = '/home/yutaoye/Desktop/dsci560-lab8/Word2Vec_BOW/results'
+        os.makedirs(results_dir, exist_ok=True)
+        
+        for cluster_id in range(max(doc_cluster_labels) + 1):
+            cluster_docs = df[doc_cluster_labels == cluster_id]
+            
+            filename = f'{results_dir}/{config_name}_cluster_{cluster_id}.txt'
+            with open(filename, 'w', encoding='utf-8') as f:
+                f.write(f"Cluster {cluster_id} - {len(cluster_docs)} documents\n")
+                f.write("=" * 50 + "\n\n")
+                
+                for idx, (_, row) in enumerate(cluster_docs.iterrows()):
+                    f.write(f"{idx+1}. {row['title']}\n")
+                    if 'keywords' in df.columns and pd.notna(row['keywords']):
+                        f.write(f"   Keywords: {row['keywords']}\n")
+                    f.write("\n")
 
 def main():
-    # Load data
     print("Loading posts.csv...")
     df = pd.read_csv('/home/yutaoye/Desktop/dsci560-lab8/data/posts.csv')
     print(f"Loaded {len(df)} posts")
+    configs = [
+        {'vector_size': 10, 'min_count': 2, 'epochs': 40, 'window': 5},
+        {'vector_size': 20, 'min_count': 2, 'epochs': 50, 'window': 5},
+        {'vector_size': 30, 'min_count': 2, 'epochs': 60, 'window': 5}
+    ]
     
-    # Initialize Word2Vec BOW (k_bins will be optimized)
-    w2v_bow = Word2VecBOW(vector_size=100)
-    
-    # Prepare corpus
-    corpus = w2v_bow.prepare_corpus(df)
-    print(f"Prepared corpus with {len(corpus)} documents")
-    
-    # Train Word2Vec
-    w2v_bow.train_word2vec(corpus)
-    
-    # Find optimal k using elbow method
-    optimal_k, inertias = w2v_bow.find_optimal_k()
-    w2v_bow.k_bins = optimal_k
-    
-    # Cluster words with optimal k
-    w2v_bow.cluster_words()
-    
-    # Analyze clusters
-    w2v_bow.analyze_clusters()
-    
-    # Visualize word clusters
-    w2v_bow.visualize_word_clusters(method='both')
-    
-    # Transform corpus to BOW vectors
-    bow_matrix = w2v_bow.transform_corpus(corpus)
-    print(f"\nBOW matrix shape: {bow_matrix.shape}")
-    
-    # Cluster documents using cosine distance
-    doc_clusters = w2v_bow.cluster_documents_cosine(bow_matrix, n_clusters=5)
-    w2v_bow.analyze_document_clusters(df, doc_clusters)
-    
-    # Save results
-    np.save('/home/yutaoye/Desktop/dsci560-lab8/Word2Vec_BOW/bow_vectors.npy', bow_matrix)
-    np.save('/home/yutaoye/Desktop/dsci560-lab8/Word2Vec_BOW/elbow_inertias.npy', np.array(inertias))
-    np.save('/home/yutaoye/Desktop/dsci560-lab8/Word2Vec_BOW/document_clusters.npy', doc_clusters)
-    
-    # Display sample vectors
-    print("\nSample BOW vectors (first 3 documents):")
-    for i in range(min(3, len(bow_matrix))):
-        print(f"Document {i}: {bow_matrix[i][:10]}...")  # Show first 10 dimensions
-    
-    print(f"\nResults saved:")
-    print(f"- BOW vectors: Word2Vec_BOW/bow_vectors.npy")
-    print(f"- Document clusters: Word2Vec_BOW/document_clusters.npy")
-    print(f"- Elbow plot: Word2Vec_BOW/elbow_plot.png")
-    print(f"- Word clusters (t-SNE): Word2Vec_BOW/word_clusters_tsne.png")
-    print(f"- Word clusters (PCA): Word2Vec_BOW/word_clusters_pca.png")
-    print(f"- Optimal k: {optimal_k}")
+    for i, config in enumerate(configs, 1):
+        print(f"\n{'='*60}")
+        print(f"CONFIGURATION {i}: {config}")
+        print(f"{'='*60}")
+        
+        w2v_bow = Word2VecBOW(**config)
+        
+        corpus = w2v_bow.prepare_corpus(df)
+        print(f"Prepared corpus with {len(corpus)} documents")
+        
+        w2v_bow.train_word2vec(corpus)
+        
+        optimal_k, silhouette_scores = w2v_bow.find_optimal_k()
+        w2v_bow.k_bins = optimal_k
+        
+        w2v_bow.cluster_words()
+        w2v_bow.analyze_clusters()
+        
+        config_name = f"config{i}"
+        w2v_bow.generate_all_k_visualizations(config_name)
+        
+        bow_matrix = w2v_bow.transform_corpus(corpus)
+        print(f"\nBOW matrix shape: {bow_matrix.shape}")
+        
+        doc_clusters = w2v_bow.cluster_documents_cosine(bow_matrix, n_clusters=5)
+        w2v_bow.analyze_document_clusters(df, doc_clusters)
+        w2v_bow.save_document_clusters(df, doc_clusters, config_name)
+        
+        print(f"\nConfig {i} results saved:")
+        print(f"- Visualizations: clusters/ folder")
+        print(f"- Document clusters: results/ folder")
+        print(f"- Optimal k: {optimal_k}")
 
 if __name__ == "__main__":
     main()

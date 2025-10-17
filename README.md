@@ -44,17 +44,29 @@ python Word2Vec_BOW/word2vec_bow.py
 
 ## Features
 
-- **Word2Vec Training**: Trains Skip-gram Word2Vec model on text corpus
-- **Optimal K Selection**: Uses elbow method to find optimal number of clusters
+- **Word2Vec Training**: Trains Skip-gram Word2Vec model with configurable parameters
+- **Three Configuration Testing**: Tests different vector sizes, epochs, and cluster counts
+- **Optimal K Selection**: Uses elbow method to find optimal number of word clusters
 - **Word Clustering**: Groups semantically similar words using K-means
 - **BOW Vector Generation**: Creates normalized bag-of-words vectors for documents
-- **Visualization**: Generates elbow plot for cluster analysis
+- **Document Clustering**: Clusters documents using cosine distance metric
+- **Visualization**: t-SNE and PCA plots of word clusters, elbow curves
+- **Document Analysis**: Detailed examination of clustered documents with keywords
+
+## Three Test Configurations
+
+- **Config 1**: 10D vectors, 40 epochs, 5 word clusters (small)
+- **Config 2**: 20D vectors, 50 epochs, 10 word clusters (medium)
+- **Config 3**: 30D vectors, 60 epochs, 15 word clusters (large)
 
 ## Output Files
 
-- `Word2Vec_BOW/bow_vectors.npy`: Generated BOW vectors
+- `Word2Vec_BOW/bow_vectors_config{1-3}.npy`: Generated BOW vectors for each config
+- `Word2Vec_BOW/document_clusters_config{1-3}.npy`: Document cluster labels
+- `Word2Vec_BOW/elbow_inertias_config{1-3}.npy`: Inertia values for different k values
+- `Word2Vec_BOW/word_clusters_tsne.png`: t-SNE word cluster visualization
+- `Word2Vec_BOW/word_clusters_pca.png`: PCA word cluster visualization
 - `Word2Vec_BOW/elbow_plot.png`: Elbow method visualization
-- `Word2Vec_BOW/elbow_inertias.npy`: Inertia values for different k values
 
 ## Data
 

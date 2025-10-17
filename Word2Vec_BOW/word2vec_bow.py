@@ -87,25 +87,30 @@ class Word2VecBOW:
         print(f"Word2Vec model trained with {len(self.word2vec_model.wv)} words")
         return self.word2vec_model
     
-    def cluster_words(self):
-        """Cluster words using K-means"""
+    def bin_words_by_distance(self):
+        """Bin words based on distance metric"""
         if not self.word2vec_model:
             raise ValueError("Word2Vec model not trained yet")
         
-        # Get word vectors
         words = list(self.word2vec_model.wv.index_to_key)
         word_vectors = np.array([self.word2vec_model.wv[word] for word in words])
         
-        print(f"Clustering {len(words)} words into {self.k_bins} bins...")
+        print(f"Binning {len(words)} words into {self.k_bins} bins using distance metric...")
         
-        # Perform K-means clustering
-        self.kmeans = KMeans(n_clusters=self.k_bins, random_state=42, n_init=10)
-        cluster_labels = self.kmeans.fit_predict(word_vectors)
+        # Create reference points using K-means centroids
+        kmeans = KMeans(n_clusters=self.k_bins, random_state=42, n_init=10)
+        kmeans.fit(word_vectors)
+        centroids = kmeans.cluster_centers_
         
-        # Create word to cluster mapping
-        self.word_to_cluster = {words[i]: cluster_labels[i] for i in range(len(words))}
+        # Assign words to bins based on distance to closest centroid
+        self.word_to_cluster = {}
+        for word in words:
+            word_vector = self.word2vec_model.wv[word]
+            distances = [np.linalg.norm(word_vector - centroid) for centroid in centroids]
+            bin_id = np.argmin(distances)
+            self.word_to_cluster[word] = bin_id
         
-        print(f"Words clustered into {self.k_bins} bins")
+        print(f"Word binning completed. {len(self.word_to_cluster)} words assigned to bins.")
         return self.word_to_cluster
     
     def create_bow_vector(self, document_tokens):
@@ -322,7 +327,7 @@ def main():
         optimal_k, silhouette_scores = w2v_bow.find_optimal_k()
         w2v_bow.k_bins = optimal_k
         
-        w2v_bow.cluster_words()
+        w2v_bow.bin_words_by_distance()
         w2v_bow.analyze_clusters()
         
         bow_matrix = w2v_bow.transform_corpus(corpus)

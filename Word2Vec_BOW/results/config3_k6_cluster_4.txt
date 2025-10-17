@@ -1,57 +1,12 @@
-config3 | k=6 | Cluster 4 - 18 documents
+config3 | k=6 | Cluster 4 - 3 documents
 ============================================================
 
-1. Glue gun prints bone grafts directly onto fractures during surgery A modified glue gun prints bone grafts directly onto fractures during surgery
-   Keywords: surgery, bone, fractures, glue, directly, grafts, gun, prints
+1. Inflammation jolts sleeping cancer cells awake enabling them to multiply again
+   Keywords: multiply, enabling, cancer, awake, cells, inflammation, jolts, sleeping
 
-2. New electric car battery could last 600 000 miles and recharge in minutes
-   Keywords: minutes, battery, miles, recharge, car, electric
+2. Psychedelic DMT shows promise as breakthrough stroke treatment
+   Keywords: stroke, promise, treatment, breakthrough, dmt, psychedelic, shows
 
-3. Shell promises 10 minute EV charging with its magical battery fluid Shell s thermal management fluid could unlock significantly faster charging for tomorrow s EVs
-   Keywords: evs, battery, fluid, significantly, charging, minute, shell, unlock
-
-4. Saab s compact Nimbrix missile takes down drone swarms Inexpensive system for handling small drones individually or in swarms at a range of up to 2 7 nautical miles 3 1 miles 5 km
-   Keywords: range, miles, nautical, swarms, inexpensive, individually, handling, nimbrix
-
-5. Inexpensive New Water Based Liquid Battery Could Replace 10 000 Lithium Systems
-   Keywords: replace, based, lithium, systems, battery, inexpensive, liquid, water
-
-6. Hunger blocking exercise molecule drives weight loss without workouts And the good news is that it could be harnessed as a therapeutic providing the same benefits without the hard work it takes to produce it naturally
-   Keywords: harnessed, loss, therapeutic, produce, benefits, hard, molecule, hunger
-
-7. Swarming drones could overwhelm air defenses changing the future of combat New AI software allows drones to fly and fight as one coordinated force
-   Keywords: drones, combat, fight, overwhelm, changing, fly, future, coordinated
-
-8. Apollo laser takes down 200 drones unplugged
-   Keywords: unplugged, drones, apollo, laser, takes
-
-9. New nonstick coating acts like Teflon but without the forever chemicals
-   Keywords: forever, acts, chemicals, teflon, coating, nonstick
-
-10. Smartphone Cameras Go Hyperspectral Off the shelf smartphone cameras can become advanced sensors
-   Keywords: sensors, hyperspectral, shelf, cameras, smartphone, advanced
-
-11. Nano cubosome eyedrops that can ferry protective compounds all the way to the retina target macular degeneration without needles
-   Keywords: needles, protective, macular, compounds, ferry, degeneration, retina, cubosome
-
-12. Durable steel wheels could replace rubber tires on mining vehicles GACW says its Air Suspension Wheels can last as long as the vehicles they re fitted on and save up to 60 of what you d spend refitting tires on them over that time
-   Keywords: vehicles, wheels, spend, tires, save, says, steel, air
-
-13. Microwave weapon downs 49 drones with a single blast In a demonstration not so much of marksmanship but more of the advantages of microwaves
-   Keywords: advantages, demonstration, drones, marksmanship, microwaves, blast, single, downs
-
-14. Spider like construction robot promises to build a home per day Being autonomously capable of building a 2 150 sq ft home in a single day operating at roughly the speed of 100 bricklayers
-   Keywords: home, autonomously, bricklayers, building, build, single, speed, robot
-
-15. Next gen imaging tech could catch sight stealing diseases early A powerful new imaging tool offers unprecedented 3D vision of the retina
-   Keywords: retina, vision, early, tech, imaging, offers, sight, powerful
-
-16. NASA moon rover project pushes extreme battery tech to its limits
-   Keywords: limits, battery, project, tech, extreme, pushes, moon, nasa
-
-17. Ocean CO2 becomes sustainable plastic thanks to modified microbes Turning dissolved carbon dioxide from seawater to biodegradable plastic is an especially powerful way to clean up the ocean
-   Keywords: ocean, clean, dioxide, powerful, plastic, turning, sustainable, biodegradable
-
-18. Helping scientists run complex data analyses without writing code
-   Keywords: complex, code, writing, analyses, data, helping, run, scientists
+3. Next gen vaccine prevents up to 88 of multiple aggressive cancers
+   Keywords: prevents, aggressive, cancers, multiple, gen, vaccine
 

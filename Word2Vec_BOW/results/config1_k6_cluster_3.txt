@@ -1,39 +1,24 @@
-config1 | k=6 | Cluster 3 - 12 documents
+config1 | k=6 | Cluster 3 - 7 documents
 ============================================================
 
-1. A single fecal transplant provides years of health benefits A capsule full of healthy gut bacteria provided obese teens with health benefits for years
-   Keywords: benefits, health, bacteria, years, transplant, teens, gut, fecal transplant
+1. DNA cassette tape can store every song ever recorded with petabytes to spare For now DNA based storage is still extremely slow for potential industry applications
+   Keywords: dna, song, spare, industry, slow, storage, store, applications
 
-2. China s CATL launches new sodium ion battery brand
-   Keywords: ion, launches, sodium, battery, brand, catl, china
+2. Lidar helps gas industry find methane leaks and avoid costly losses Lincoln Laboratory transitioned its optical amplifier technology to Bridger Photonics for commercialization enhancing U S energy security and efficiency
+   Keywords: security, leaks, photonics, optical, industry, costly, laboratory, lidar
 
-3. Easy test identifies high stress levels in kids living with chronic illness By testing for the stress hormone cortisol in hair researchers can identify kids with chronic illness who face the greatest risk of anxiety depression or behavioral struggles
-   Keywords: illness, kids, cortisol, researchers, stress, chronic, anxiety, risk
+3. Lidar helps gas industry find methane leaks and avoid costly losses
+   Keywords: costly, leaks, industry, losses, avoid, methane, gas, helps
 
-4. Meta launches smart glasses with built in display reaching for superintelligence
-   Keywords: superintelligence, glasses, built, display, reaching, launches, meta, smart
+4. Hunger blocking exercise molecule drives weight loss without workouts And the good news is that it could be harnessed as a therapeutic providing the same benefits without the hard work it takes to produce it naturally
+   Keywords: harnessed, loss, therapeutic, produce, benefits, hard, molecule, hunger
 
-5. Enzyme behind diet induced obesity and diabetes can be switched off Switching off an enzyme in mice prevented diet induced obesity and improved metabolism
-   Keywords: enzyme, induced, diet, switched, diabetes, obesity, switching, improved
+5. Printable aluminum alloy sets strength records may enable lighter aircraft parts
+   Keywords: aircraft, sets, parts, enable, lighter, records, strength, alloy
 
-6. World s first behavior transplant between species achieved
-   Keywords: behavior, species, achieved, transplant
-
-7. Next gen imaging tech could catch sight stealing diseases early A powerful new imaging tool offers unprecedented 3D vision of the retina
-   Keywords: retina, vision, early, tech, imaging, offers, sight, powerful
-
-8. Sugar switch in the brain offers new path to treating depression Removing the St3gal1 enzyme in healthy mice caused depressive symptoms increasing St3gal1 in stressed mice had the opposite effect easing those behaviors
-   Keywords: mice, easing, treating, caused, stressed, increasing, offers, behaviors
-
-9. Ocean CO2 becomes sustainable plastic thanks to modified microbes Turning dissolved carbon dioxide from seawater to biodegradable plastic is an especially powerful way to clean up the ocean
-   Keywords: ocean, clean, dioxide, powerful, plastic, turning, sustainable, biodegradable
-
-10. New sunlight powered film kills 99 995 bacteria to provide safe drinking water It offers a simple affordable and robust solution to the global safe drinking water crisis
+6. New sunlight powered film kills 99 995 bacteria to provide safe drinking water It offers a simple affordable and robust solution to the global safe drinking water crisis
    Keywords: safe, provide, film, crisis, water, drinking, offers, affordable
 
-11. Two pronged approach cuts sleep apnea events by 68
+7. Two pronged approach cuts sleep apnea events by 68
    Keywords: events, cuts, approach, pronged, apnea, sleep
-
-12. New approach shields memory from brain cancer radiotherapy
-   Keywords: cancer, memory, radiotherapy, brain, approach, shields
 

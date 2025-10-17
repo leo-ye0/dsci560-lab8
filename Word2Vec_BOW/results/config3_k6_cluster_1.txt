@@ -1,45 +1,30 @@
-config3 | k=6 | Cluster 1 - 14 documents
+config3 | k=6 | Cluster 1 - 9 documents
 ============================================================
 
-1. No wearables needed researchers use WiFi and Raspberry Pi to measure your heart rate in real time Matching clinical accuracy within seconds
-   Keywords: seconds, researchers, raspberry, heart, clinical, real, measure, accuracy
+1. Eye drops could replace glasses or surgery for longsightedness study says Research shows most patients can read extra lines on eye test charts after twice daily treatment
+   Keywords: eye, replace, lines, twice, surgery, test, shows, study
 
-2. World s first koala chlamydia vaccine approved for rollout across country Vaccine will protect koalas from the widespread disease that causes painful urinary tract infections infertility blindness and death
-   Keywords: disease, koala, vaccine, approved, painful, infections, rollout, koalas
+2. Caged drugs still STING cancer but make treatment much safer The new drug delivery system only activates when inside a tumor and calls upon the body s own immune system to destroy it
+   Keywords: inside, safer, drug, body, calls, destroy, immune, sting
 
-3. Technology originating at MIT leads to approved bladder cancer treatment
-   Keywords: treatment, mit, approved, leads, originating, technology, bladder, cancer
+3. A new study shows that a personalized precise form of brain stimulation HD tDCS can rapidly ease depression symptoms and even reduce anxiety offering a promising drug free alternative with only mild side effects
+   Keywords: effects, rapidly, reduce, free, symptoms, shows, stimulation, personalized
 
-4. Lidar helps gas industry find methane leaks and avoid costly losses Lincoln Laboratory transitioned its optical amplifier technology to Bridger Photonics for commercialization enhancing U S energy security and efficiency
-   Keywords: security, leaks, photonics, optical, industry, costly, laboratory, lidar
+4. Tumor targeting Salmonella engineered to boost colon cancer survival Scientists have engineered a species of Salmonella that self destructs inside colon cancer tumors
+   Keywords: cancer, engineered, colon, scientists, salmonella, destructs, boost, species
 
-5. Lidar helps gas industry find methane leaks and avoid costly losses
-   Keywords: costly, leaks, industry, losses, avoid, methane, gas, helps
+5. New 3D bioprinting technique may improve production of engineered tissue
+   Keywords: tissue, technique, production, bioprinting, engineered, improve
 
-6. FDA approves first nasal spray diuretic for heart liver and kidney disease Aiming to prevent a common and costly issue that results in more than a million hospitalizations each year
-   Keywords: hospitalizations, costly, results, aiming, nasal, prevent, diuretic, fda
+6. Bottlebrush particles deliver big chemotherapy payloads directly to cancer cells
+   Keywords: cells, directly, cancer, chemotherapy, payloads, bottlebrush, deliver, particles
 
-7. By knocking out a protein duo s bodyguard role researchers have exposed a hidden weakness in pancreatic cancer It s a discovery that could lead to smarter more effective treatments for one of the deadliest cancers
-   Keywords: discovery, lead, knocking, researchers, effective, hidden, pancreatic, exposed
+7. Forged in disorder High entropy MXenes emerge as a new material
+   Keywords: emerge, material, disorder, forged, entropy, mxenes
 
-8. New biodegradable film made from onion skins can boost solar panel lifespan Renewable solar cell filters stay effective after simulated year of use
-   Keywords: solar, skins, simulated, filters, biodegradable, film, effective, onion
+8. Engineered natural killer cells could help fight cancer
+   Keywords: fight, cells, cancer, help, engineered, killer, natural
 
-9. Study shows mucus contains molecules that block Salmonella infection MIT researchers now hope to develop synthetic versions of these molecules which could be used to treat or prevent foodborne illnesses
-   Keywords: molecules, synthetic, hope, prevent, block, contains, mit, treat
-
-10. New AI system could accelerate clinical research By enabling rapid annotation of areas of interest in medical images the tool can help scientists study new treatments or map disease progression
-   Keywords: areas, map, research, rapid, help, accelerate, progression, treatments
-
-11. New daily pill shows strong results in ulcerative colitis clinical trial
-   Keywords: clinical, shows, trial, colitis, daily, pill, results, strong
-
-12. Next gen vaccine prevents up to 88 of multiple aggressive cancers
-   Keywords: prevents, aggressive, cancers, multiple, gen, vaccine
-
-13. Two pronged approach cuts sleep apnea events by 68
-   Keywords: events, cuts, approach, pronged, apnea, sleep
-
-14. New approach shields memory from brain cancer radiotherapy
+9. New approach shields memory from brain cancer radiotherapy
    Keywords: cancer, memory, radiotherapy, brain, approach, shields
 

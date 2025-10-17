@@ -1,57 +1,81 @@
-config3 | k=3 | Cluster 1 - 18 documents
+config3 | k=3 | Cluster 1 - 26 documents
 ============================================================
 
-1. Glue gun prints bone grafts directly onto fractures during surgery A modified glue gun prints bone grafts directly onto fractures during surgery
-   Keywords: surgery, bone, fractures, glue, directly, grafts, gun, prints
+1. A single fecal transplant provides years of health benefits A capsule full of healthy gut bacteria provided obese teens with health benefits for years
+   Keywords: benefits, health, bacteria, years, transplant, teens, gut, fecal transplant
 
-2. New electric car battery could last 600 000 miles and recharge in minutes
-   Keywords: minutes, battery, miles, recharge, car, electric
+2. Bottlebrush particles deliver big chemotherapy payloads directly to cancer cells Outfitted with antibodies that guide them to the tumor site the new nanoparticles could reduce the side effects of treatment
+   Keywords: tumor, reduce, antibodies, directly, effects, cells, guide, nanoparticles reduce
 
-3. Shell promises 10 minute EV charging with its magical battery fluid Shell s thermal management fluid could unlock significantly faster charging for tomorrow s EVs
-   Keywords: evs, battery, fluid, significantly, charging, minute, shell, unlock
+3. China s CATL launches new sodium ion battery brand
+   Keywords: ion, launches, sodium, battery, brand, catl, china
 
-4. Saab s compact Nimbrix missile takes down drone swarms Inexpensive system for handling small drones individually or in swarms at a range of up to 2 7 nautical miles 3 1 miles 5 km
-   Keywords: range, miles, nautical, swarms, inexpensive, individually, handling, nimbrix
+4. Artificial cartilage senses arthritis pain then morphs to block it A squishy cartilage like material can be loaded up with either long term or short term pain killers that are released when the material senses chemical stress from arthritis
+   Keywords: material, cartilage, arthritis, released, morphs, killers, short, term
 
-5. Inexpensive New Water Based Liquid Battery Could Replace 10 000 Lithium Systems
+5. Breakthrough 3D printing methods bring artificial skin tissue closer to reality Swedish research team pioneers methods to print skin with functioning blood vessels
+   Keywords: skin, methods, blood, research, artificial, print, printing, tissue
+
+6. Promising new epilepsy drug delivers 80 reduction in seizures Adults with drug resistant focal onset seizures are the target of experimental epilepsy drug RAP 219
+   Keywords: drug, epilepsy, reduction, seizures, adults, resistant, rap, experimental
+
+7. New RNA tool to advance cancer and infectious disease research and treatment
+   Keywords: research, treatment, advance, cancer, rna, tool, disease, infectious
+
+8. Eye drops could replace glasses or surgery for longsightedness study says Research shows most patients can read extra lines on eye test charts after twice daily treatment
+   Keywords: eye, replace, lines, twice, surgery, test, shows, study
+
+9. Inexpensive New Water Based Liquid Battery Could Replace 10 000 Lithium Systems
    Keywords: replace, based, lithium, systems, battery, inexpensive, liquid, water
 
-6. Hunger blocking exercise molecule drives weight loss without workouts And the good news is that it could be harnessed as a therapeutic providing the same benefits without the hard work it takes to produce it naturally
+10. Machine learning tool gives doctors a more detailed 3D picture of fetal health
+   Keywords: health, picture, gives, detailed, doctors, fetal, learning, machine
+
+11. A new study shows that a personalized precise form of brain stimulation HD tDCS can rapidly ease depression symptoms and even reduce anxiety offering a promising drug free alternative with only mild side effects
+   Keywords: effects, rapidly, reduce, free, symptoms, shows, stimulation, personalized
+
+12. Hunger blocking exercise molecule drives weight loss without workouts And the good news is that it could be harnessed as a therapeutic providing the same benefits without the hard work it takes to produce it naturally
    Keywords: harnessed, loss, therapeutic, produce, benefits, hard, molecule, hunger
 
-7. Swarming drones could overwhelm air defenses changing the future of combat New AI software allows drones to fly and fight as one coordinated force
-   Keywords: drones, combat, fight, overwhelm, changing, fly, future, coordinated
+13. Easy test identifies high stress levels in kids living with chronic illness By testing for the stress hormone cortisol in hair researchers can identify kids with chronic illness who face the greatest risk of anxiety depression or behavioral struggles
+   Keywords: illness, kids, cortisol, researchers, stress, chronic, anxiety, risk
 
-8. Apollo laser takes down 200 drones unplugged
-   Keywords: unplugged, drones, apollo, laser, takes
+14. Common daily pill slashes colorectal cancer s return by 55 A study involving more than 1 000 cancer patients has found that a low dose of aspirin halves the risk of colorectal tumors returning after surgery
+   Keywords: patients, involving, dose, halves, cancer, returning, colorectal, return
 
-9. New nonstick coating acts like Teflon but without the forever chemicals
-   Keywords: forever, acts, chemicals, teflon, coating, nonstick
+15. Ozempic killer New drug reprograms metabolism for lasting weight loss A new drug targets weight loss differently leading to a more permanent fat shedding solution
+   Keywords: drug, loss, permanent, solution, weight, ozempic, reprograms, differently
 
-10. Smartphone Cameras Go Hyperspectral Off the shelf smartphone cameras can become advanced sensors
-   Keywords: sensors, hyperspectral, shelf, cameras, smartphone, advanced
+16. Tumor targeting Salmonella engineered to boost colon cancer survival Scientists have engineered a species of Salmonella that self destructs inside colon cancer tumors
+   Keywords: cancer, engineered, colon, scientists, salmonella, destructs, boost, species
 
-11. Nano cubosome eyedrops that can ferry protective compounds all the way to the retina target macular degeneration without needles
-   Keywords: needles, protective, macular, compounds, ferry, degeneration, retina, cubosome
+17. World s first behavior transplant between species achieved
+   Keywords: behavior, species, achieved, transplant
 
-12. Durable steel wheels could replace rubber tires on mining vehicles GACW says its Air Suspension Wheels can last as long as the vehicles they re fitted on and save up to 60 of what you d spend refitting tires on them over that time
-   Keywords: vehicles, wheels, spend, tires, save, says, steel, air
+18. New 3D bioprinting technique may improve production of engineered tissue
+   Keywords: tissue, technique, production, bioprinting, engineered, improve
 
-13. Microwave weapon downs 49 drones with a single blast In a demonstration not so much of marksmanship but more of the advantages of microwaves
-   Keywords: advantages, demonstration, drones, marksmanship, microwaves, blast, single, downs
+19. Bottlebrush particles deliver big chemotherapy payloads directly to cancer cells
+   Keywords: cells, directly, cancer, chemotherapy, payloads, bottlebrush, deliver, particles
 
-14. Spider like construction robot promises to build a home per day Being autonomously capable of building a 2 150 sq ft home in a single day operating at roughly the speed of 100 bricklayers
-   Keywords: home, autonomously, bricklayers, building, build, single, speed, robot
+20. Low dose radiation relieves knee osteoarthritis pain improves function
+   Keywords: pain, relieves, function, improves, knee, osteoarthritis, dose, low
 
-15. Next gen imaging tech could catch sight stealing diseases early A powerful new imaging tool offers unprecedented 3D vision of the retina
+21. Next gen imaging tech could catch sight stealing diseases early A powerful new imaging tool offers unprecedented 3D vision of the retina
    Keywords: retina, vision, early, tech, imaging, offers, sight, powerful
 
-16. NASA moon rover project pushes extreme battery tech to its limits
+22. NASA moon rover project pushes extreme battery tech to its limits
    Keywords: limits, battery, project, tech, extreme, pushes, moon, nasa
 
-17. Ocean CO2 becomes sustainable plastic thanks to modified microbes Turning dissolved carbon dioxide from seawater to biodegradable plastic is an especially powerful way to clean up the ocean
-   Keywords: ocean, clean, dioxide, powerful, plastic, turning, sustainable, biodegradable
+23. Smart in asphalt fabric provides live reports from within roads Once embedded in the asphalt the sensor fabric s job is to provide continuous measurements
+   Keywords: asphalt, fabric, measurements, roads, job, reports, sensor, embedded
 
-18. Helping scientists run complex data analyses without writing code
-   Keywords: complex, code, writing, analyses, data, helping, run, scientists
+24. New sunlight powered film kills 99 995 bacteria to provide safe drinking water It offers a simple affordable and robust solution to the global safe drinking water crisis
+   Keywords: safe, provide, film, crisis, water, drinking, offers, affordable
+
+25. Breakthrough blood test detects chronic fatigue in 92 of cases
+   Keywords: cases, detects, chronic, fatigue, blood, breakthrough, test
+
+26. Engineered natural killer cells could help fight cancer
+   Keywords: fight, cells, cancer, help, engineered, killer, natural
 

@@ -1,75 +1,57 @@
-config3 | k=6 | Cluster 3 - 24 documents
+config3 | k=6 | Cluster 3 - 18 documents
 ============================================================
 
-1. Scientists create solar cells that generate energy from indoor light at record efficiency
-   Keywords: efficiency, energy, light, cells, generate, indoor, record, create
+1. A single fecal transplant provides years of health benefits A capsule full of healthy gut bacteria provided obese teens with health benefits for years
+   Keywords: benefits, health, bacteria, years, transplant, teens, gut, fecal transplant
 
-2. Scientists unlock way to harness terahertz light for advanced technologies New light control method may lead to faster wireless and quantum devices
-   Keywords: devices, light, lead, wireless, control, technologies, method, scientists
+2. Bottlebrush particles deliver big chemotherapy payloads directly to cancer cells Outfitted with antibodies that guide them to the tumor site the new nanoparticles could reduce the side effects of treatment
+   Keywords: tumor, reduce, antibodies, directly, effects, cells, guide, nanoparticles reduce
 
-3. DNA cassette tape can store every song ever recorded with petabytes to spare For now DNA based storage is still extremely slow for potential industry applications
-   Keywords: dna, song, spare, industry, slow, storage, store, applications
+3. China s CATL launches new sodium ion battery brand
+   Keywords: ion, launches, sodium, battery, brand, catl, china
 
-4. This MIT spinout is taking biomolecule storage out of the freezer
-   Keywords: storage, freezer, mit, spinout, biomolecule, taking
+4. Artificial cartilage senses arthritis pain then morphs to block it A squishy cartilage like material can be loaded up with either long term or short term pain killers that are released when the material senses chemical stress from arthritis
+   Keywords: material, cartilage, arthritis, released, morphs, killers, short, term
 
-5. New system dramatically speeds the search for polymer materials
-   Keywords: speeds, dramatically, search, materials, polymer
+5. Promising new epilepsy drug delivers 80 reduction in seizures Adults with drug resistant focal onset seizures are the target of experimental epilepsy drug RAP 219
+   Keywords: drug, epilepsy, reduction, seizures, adults, resistant, rap, experimental
 
-6. MIT geologists discover where energy goes during an earthquake Based on mini lab quakes in a controlled setting the findings could help researchers assess the vulnerability of quake prone regions
-   Keywords: based, help, quake, setting, lab, mit, quakes, mini
+6. Inexpensive New Water Based Liquid Battery Could Replace 10 000 Lithium Systems
+   Keywords: replace, based, lithium, systems, battery, inexpensive, liquid, water
 
-7. Lighting like pulses turn toxic red mud into building materials Researchers have figured out a way to send electric pulses through the mud to purify it and allow it to be reused instead of discarded
-   Keywords: mud, allow, figured, pulses, purify, electric, materials, turn
+7. Machine learning tool gives doctors a more detailed 3D picture of fetal health
+   Keywords: health, picture, gives, detailed, doctors, fetal, learning, machine
 
-8. Meta launches smart glasses with built in display reaching for superintelligence
-   Keywords: superintelligence, glasses, built, display, reaching, launches, meta, smart
+8. Hunger blocking exercise molecule drives weight loss without workouts And the good news is that it could be harnessed as a therapeutic providing the same benefits without the hard work it takes to produce it naturally
+   Keywords: harnessed, loss, therapeutic, produce, benefits, hard, molecule, hunger
 
-9. New tool makes generative AI models more likely to create breakthrough materials With SCIGEN researchers can steer AI models to create materials with exotic properties for applications like quantum computing
-   Keywords: materials, create, models, generative, properties, quantum, steer, applications
+9. Easy test identifies high stress levels in kids living with chronic illness By testing for the stress hormone cortisol in hair researchers can identify kids with chronic illness who face the greatest risk of anxiety depression or behavioral struggles
+   Keywords: illness, kids, cortisol, researchers, stress, chronic, anxiety, risk
 
-10. MIT engineers develop a magnetic transistor for more energy efficient electronics A new device concept opens the door to compact high performance transistors with built in memory
-   Keywords: performance, built, opens, efficient, device concept, memory, door, electronics
+10. Common daily pill slashes colorectal cancer s return by 55 A study involving more than 1 000 cancer patients has found that a low dose of aspirin halves the risk of colorectal tumors returning after surgery
+   Keywords: patients, involving, dose, halves, cancer, returning, colorectal, return
 
-11. GE Aerospace flies hypersonic engine with no moving parts
-   Keywords: hypersonic, engine, moving, parts, aerospace, flies
+11. Ozempic killer New drug reprograms metabolism for lasting weight loss A new drug targets weight loss differently leading to a more permanent fat shedding solution
+   Keywords: drug, loss, permanent, solution, weight, ozempic, reprograms, differently
 
-12. AI system learns from many types of scientific information and runs experiments to discover new materials
-   Keywords: materials, learns, types, discover, experiments, information, runs, scientific
+12. World s first behavior transplant between species achieved
+   Keywords: behavior, species, achieved, transplant
 
-13. Technique makes complex 3D printed parts more reliable New research enables computer designs to incorporate the limitations of 3D printers to better control materials performance in aerospace medical and other applications
-   Keywords: applications, designs, better, research, medical, performance, makes complex, technique
+13. Low dose radiation relieves knee osteoarthritis pain improves function
+   Keywords: pain, relieves, function, improves, knee, osteoarthritis, dose, low
 
-14. New 3D bioprinting technique may improve production of engineered tissue
-   Keywords: tissue, technique, production, bioprinting, engineered, improve
+14. Next gen imaging tech could catch sight stealing diseases early A powerful new imaging tool offers unprecedented 3D vision of the retina
+   Keywords: retina, vision, early, tech, imaging, offers, sight, powerful
 
-15. UV light is a fast effective way to deactivate indoor airborne allergens UV222 light is a passive quick way to inactivate indoor airborne allergens like cat dander
-   Keywords: light, indoor, airborne, allergens, deactivate, inactivate, cat, dander
+15. NASA moon rover project pushes extreme battery tech to its limits
+   Keywords: limits, battery, project, tech, extreme, pushes, moon, nasa
 
-16. Oak Ridge s new 3D printer can mix and match materials at massive scale Scientists unveil multiplexed nozzle for next generation 3D printing
-   Keywords: generation, printer, printing, match, unveil, massive, oak ridge, ridge
+16. Smart in asphalt fabric provides live reports from within roads Once embedded in the asphalt the sensor fabric s job is to provide continuous measurements
+   Keywords: asphalt, fabric, measurements, roads, job, reports, sensor, embedded
 
-17. Palladium filters could enable cheaper more efficient generation of hydrogen fuel The novel design allows the membranes to withstand high temperatures when separating hydrogen from gas mixtures
-   Keywords: hydrogen, efficient, enable, withstand, novel, temperatures, generation, separating
+17. New sunlight powered film kills 99 995 bacteria to provide safe drinking water It offers a simple affordable and robust solution to the global safe drinking water crisis
+   Keywords: safe, provide, film, crisis, water, drinking, offers, affordable
 
-18. This chip uses light to supercharge AI and cut energy use
-   Keywords: energy, light, cut, supercharge, chip, uses
-
-19. MIT s concrete battery just got 10 times more powerful Researchers found a way to combine cement water and carbon black to create a supercapacitor expanding the storage capacity by nearly 10 times
-   Keywords: combine, times, powerful, nearly, supercapacitor, battery, storage, create supercapacitor
-
-20. Parachutes with hundreds of holes could enable safer drone deliveries
-   Keywords: deliveries, enable, holes, hundreds, parachutes, drone, safer
-
-21. Chemists create red fluorescent dyes that may enable clearer biomedical imaging The new dyes are based on boron containing molecules that were previously too unstable for practical use
-   Keywords: biomedical, unstable, containing, dyes, based, fluorescent, imaging, molecules
-
-22. How Wi Fi Signals Can Be Used to Detect Your Heartbeat Contactless pulse monitoring opens up new wearable possibilities
-   Keywords: signals, possibilities, used, pulse, detect, wearable, contactless, heartbeat
-
-23. Tiny lab grown brains could help build the next generation of computers Biocomputing has left the realm of science fiction and entered the laboratory
-   Keywords: generation, biocomputing, build, entered, science, brains, laboratory, left
-
-24. Printable aluminum alloy sets strength records may enable lighter aircraft parts
-   Keywords: aircraft, sets, parts, enable, lighter, records, strength, alloy
+18. Breakthrough blood test detects chronic fatigue in 92 of cases
+   Keywords: cases, detects, chronic, fatigue, blood, breakthrough, test
 

@@ -1,45 +1,57 @@
-config2 | k=6 | Cluster 4 - 14 documents
+config2 | k=6 | Cluster 4 - 18 documents
 ============================================================
 
-1. Shell promises 10 minute EV charging with its magical battery fluid Shell s thermal management fluid could unlock significantly faster charging for tomorrow s EVs
-   Keywords: evs, battery, fluid, significantly, charging, minute, shell, unlock
+1. Bottlebrush particles deliver big chemotherapy payloads directly to cancer cells Outfitted with antibodies that guide them to the tumor site the new nanoparticles could reduce the side effects of treatment
+   Keywords: tumor, reduce, antibodies, directly, effects, cells, guide, nanoparticles reduce
 
-2. New system dramatically speeds the search for polymer materials
-   Keywords: speeds, dramatically, search, materials, polymer
+2. Technology originating at MIT leads to approved bladder cancer treatment
+   Keywords: treatment, mit, approved, leads, originating, technology, bladder, cancer
 
-3. MIT geologists discover where energy goes during an earthquake Based on mini lab quakes in a controlled setting the findings could help researchers assess the vulnerability of quake prone regions
-   Keywords: based, help, quake, setting, lab, mit, quakes, mini
+3. Scientists unlock way to harness terahertz light for advanced technologies New light control method may lead to faster wireless and quantum devices
+   Keywords: devices, light, lead, wireless, control, technologies, method, scientists
 
-4. Lighting like pulses turn toxic red mud into building materials Researchers have figured out a way to send electric pulses through the mud to purify it and allow it to be reused instead of discarded
-   Keywords: mud, allow, figured, pulses, purify, electric, materials, turn
+4. New electric car battery could last 600 000 miles and recharge in minutes
+   Keywords: minutes, battery, miles, recharge, car, electric
 
-5. New tool makes generative AI models more likely to create breakthrough materials With SCIGEN researchers can steer AI models to create materials with exotic properties for applications like quantum computing
+5. New RNA tool to advance cancer and infectious disease research and treatment
+   Keywords: research, treatment, advance, cancer, rna, tool, disease, infectious
+
+6. Eye drops could replace glasses or surgery for longsightedness study says Research shows most patients can read extra lines on eye test charts after twice daily treatment
+   Keywords: eye, replace, lines, twice, surgery, test, shows, study
+
+7. Saab s compact Nimbrix missile takes down drone swarms Inexpensive system for handling small drones individually or in swarms at a range of up to 2 7 nautical miles 3 1 miles 5 km
+   Keywords: range, miles, nautical, swarms, inexpensive, individually, handling, nimbrix
+
+8. FDA approves first nasal spray diuretic for heart liver and kidney disease Aiming to prevent a common and costly issue that results in more than a million hospitalizations each year
+   Keywords: hospitalizations, costly, results, aiming, nasal, prevent, diuretic, fda
+
+9. A new study shows that a personalized precise form of brain stimulation HD tDCS can rapidly ease depression symptoms and even reduce anxiety offering a promising drug free alternative with only mild side effects
+   Keywords: effects, rapidly, reduce, free, symptoms, shows, stimulation, personalized
+
+10. By knocking out a protein duo s bodyguard role researchers have exposed a hidden weakness in pancreatic cancer It s a discovery that could lead to smarter more effective treatments for one of the deadliest cancers
+   Keywords: discovery, lead, knocking, researchers, effective, hidden, pancreatic, exposed
+
+11. New tool makes generative AI models more likely to create breakthrough materials With SCIGEN researchers can steer AI models to create materials with exotic properties for applications like quantum computing
    Keywords: materials, create, models, generative, properties, quantum, steer, applications
 
-6. GE Aerospace flies hypersonic engine with no moving parts
-   Keywords: hypersonic, engine, moving, parts, aerospace, flies
+12. Inflammation jolts sleeping cancer cells awake enabling them to multiply again
+   Keywords: multiply, enabling, cancer, awake, cells, inflammation, jolts, sleeping
 
-7. AI system learns from many types of scientific information and runs experiments to discover new materials
-   Keywords: materials, learns, types, discover, experiments, information, runs, scientific
+13. New nonstick coating acts like Teflon but without the forever chemicals
+   Keywords: forever, acts, chemicals, teflon, coating, nonstick
 
-8. Technique makes complex 3D printed parts more reliable New research enables computer designs to incorporate the limitations of 3D printers to better control materials performance in aerospace medical and other applications
-   Keywords: applications, designs, better, research, medical, performance, makes complex, technique
+14. New AI system could accelerate clinical research By enabling rapid annotation of areas of interest in medical images the tool can help scientists study new treatments or map disease progression
+   Keywords: areas, map, research, rapid, help, accelerate, progression, treatments
 
-9. Spider like construction robot promises to build a home per day Being autonomously capable of building a 2 150 sq ft home in a single day operating at roughly the speed of 100 bricklayers
-   Keywords: home, autonomously, bricklayers, building, build, single, speed, robot
+15. Low dose radiation relieves knee osteoarthritis pain improves function
+   Keywords: pain, relieves, function, improves, knee, osteoarthritis, dose, low
 
-10. Oak Ridge s new 3D printer can mix and match materials at massive scale Scientists unveil multiplexed nozzle for next generation 3D printing
-   Keywords: generation, printer, printing, match, unveil, massive, oak ridge, ridge
+16. MIT s concrete battery just got 10 times more powerful Researchers found a way to combine cement water and carbon black to create a supercapacitor expanding the storage capacity by nearly 10 times
+   Keywords: combine, times, powerful, nearly, supercapacitor, battery, storage, create supercapacitor
 
-11. Parachutes with hundreds of holes could enable safer drone deliveries
-   Keywords: deliveries, enable, holes, hundreds, parachutes, drone, safer
+17. A groundbreaking study has revealed that your mom and dad s DNA don t just pass on telomere length they actively reshape it in the first days of life influencing how we age and our risk of developing diseases such as cancer
+   Keywords: reshape, dad, length, influencing, revealed, risk, don, pass
 
-12. Chemists create red fluorescent dyes that may enable clearer biomedical imaging The new dyes are based on boron containing molecules that were previously too unstable for practical use
-   Keywords: biomedical, unstable, containing, dyes, based, fluorescent, imaging, molecules
-
-13. Tiny lab grown brains could help build the next generation of computers Biocomputing has left the realm of science fiction and entered the laboratory
-   Keywords: generation, biocomputing, build, entered, science, brains, laboratory, left
-
-14. Printable aluminum alloy sets strength records may enable lighter aircraft parts
-   Keywords: aircraft, sets, parts, enable, lighter, records, strength, alloy
+18. New approach shields memory from brain cancer radiotherapy
+   Keywords: cancer, memory, radiotherapy, brain, approach, shields
 

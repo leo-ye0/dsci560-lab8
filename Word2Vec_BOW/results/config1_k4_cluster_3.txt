@@ -1,72 +1,120 @@
-config1 | k=4 | Cluster 3 - 23 documents
+config1 | k=4 | Cluster 3 - 39 documents
 ============================================================
 
-1. A single fecal transplant provides years of health benefits A capsule full of healthy gut bacteria provided obese teens with health benefits for years
-   Keywords: benefits, health, bacteria, years, transplant, teens, gut, fecal transplant
+1. No wearables needed researchers use WiFi and Raspberry Pi to measure your heart rate in real time Matching clinical accuracy within seconds
+   Keywords: seconds, researchers, raspberry, heart, clinical, real, measure, accuracy
 
-2. Bottlebrush particles deliver big chemotherapy payloads directly to cancer cells Outfitted with antibodies that guide them to the tumor site the new nanoparticles could reduce the side effects of treatment
-   Keywords: tumor, reduce, antibodies, directly, effects, cells, guide, nanoparticles reduce
+2. Scientists create solar cells that generate energy from indoor light at record efficiency
+   Keywords: efficiency, energy, light, cells, generate, indoor, record, create
 
 3. China s CATL launches new sodium ion battery brand
    Keywords: ion, launches, sodium, battery, brand, catl, china
 
-4. We ve glimpsed the secret quantum landscape inside all matter
-   Keywords: matter, glimpsed, landscape, inside, quantum, secret
+4. Scientists unlock way to harness terahertz light for advanced technologies New light control method may lead to faster wireless and quantum devices
+   Keywords: devices, light, lead, wireless, control, technologies, method, scientists
 
-5. New pathway engineered into plants lets them suck up more CO2 Engineered pathway lets carbon be plugged directly into key metabolic pathways
+5. Japan s green light for making human embryos from stem cells takes us into uncharted territory using CRISPR IPSCs and IVF potentially changing our entire species
+   Keywords: entire, stem, human, ipscs, potentially, territory, light, japan green
+
+6. Promising new epilepsy drug delivers 80 reduction in seizures Adults with drug resistant focal onset seizures are the target of experimental epilepsy drug RAP 219
+   Keywords: drug, epilepsy, reduction, seizures, adults, resistant, rap, experimental
+
+7. This MIT spinout is taking biomolecule storage out of the freezer
+   Keywords: storage, freezer, mit, spinout, biomolecule, taking
+
+8. New pathway engineered into plants lets them suck up more CO2 Engineered pathway lets carbon be plugged directly into key metabolic pathways
    Keywords: pathways, pathway, engineered, suck, lets, plants, directly, plugged
 
-6. Caged drugs still STING cancer but make treatment much safer The new drug delivery system only activates when inside a tumor and calls upon the body s own immune system to destroy it
+9. Shell promises 10 minute EV charging with its magical battery fluid Shell s thermal management fluid could unlock significantly faster charging for tomorrow s EVs
+   Keywords: evs, battery, fluid, significantly, charging, minute, shell, unlock
+
+10. Caged drugs still STING cancer but make treatment much safer The new drug delivery system only activates when inside a tumor and calls upon the body s own immune system to destroy it
    Keywords: inside, safer, drug, body, calls, destroy, immune, sting
 
-7. A new study shows that a personalized precise form of brain stimulation HD tDCS can rapidly ease depression symptoms and even reduce anxiety offering a promising drug free alternative with only mild side effects
+11. A new study shows that a personalized precise form of brain stimulation HD tDCS can rapidly ease depression symptoms and even reduce anxiety offering a promising drug free alternative with only mild side effects
    Keywords: effects, rapidly, reduce, free, symptoms, shows, stimulation, personalized
 
-8. Easy test identifies high stress levels in kids living with chronic illness By testing for the stress hormone cortisol in hair researchers can identify kids with chronic illness who face the greatest risk of anxiety depression or behavioral struggles
+12. MIT geologists discover where energy goes during an earthquake Based on mini lab quakes in a controlled setting the findings could help researchers assess the vulnerability of quake prone regions
+   Keywords: based, help, quake, setting, lab, mit, quakes, mini
+
+13. Easy test identifies high stress levels in kids living with chronic illness By testing for the stress hormone cortisol in hair researchers can identify kids with chronic illness who face the greatest risk of anxiety depression or behavioral struggles
    Keywords: illness, kids, cortisol, researchers, stress, chronic, anxiety, risk
 
-9. Meta launches smart glasses with built in display reaching for superintelligence
-   Keywords: superintelligence, glasses, built, display, reaching, launches, meta, smart
+14. Lighting like pulses turn toxic red mud into building materials Researchers have figured out a way to send electric pulses through the mud to purify it and allow it to be reused instead of discarded
+   Keywords: mud, allow, figured, pulses, purify, electric, materials, turn
 
-10. Magnesium the microbiome and reducing the risk of colon cancer Magnesium supplements may prevent colon cancer by boosting specific gut bacteria
-   Keywords: cancer, magnesium, risk, colon, specific, microbiome, reducing, boosting specific
+15. By knocking out a protein duo s bodyguard role researchers have exposed a hidden weakness in pancreatic cancer It s a discovery that could lead to smarter more effective treatments for one of the deadliest cancers
+   Keywords: discovery, lead, knocking, researchers, effective, hidden, pancreatic, exposed
 
-11. Inflammation jolts sleeping cancer cells awake enabling them to multiply again
-   Keywords: multiply, enabling, cancer, awake, cells, inflammation, jolts, sleeping
+16. A more precise way to edit the genome
+   Keywords: edit, genome, precise
 
-12. Tumor targeting Salmonella engineered to boost colon cancer survival Scientists have engineered a species of Salmonella that self destructs inside colon cancer tumors
-   Keywords: cancer, engineered, colon, scientists, salmonella, destructs, boost, species
+17. Key HIV weakness could pave way for a cure Scientists now know how HIV integrates into the human genome
+   Keywords: genome, scientists, pave, hiv, cure, human, integrates, know
 
-13. Enzyme behind diet induced obesity and diabetes can be switched off Switching off an enzyme in mice prevented diet induced obesity and improved metabolism
+18. New biodegradable film made from onion skins can boost solar panel lifespan Renewable solar cell filters stay effective after simulated year of use
+   Keywords: solar, skins, simulated, filters, biodegradable, film, effective, onion
+
+19. Smartphone Cameras Go Hyperspectral Off the shelf smartphone cameras can become advanced sensors
+   Keywords: sensors, hyperspectral, shelf, cameras, smartphone, advanced
+
+20. Nano cubosome eyedrops that can ferry protective compounds all the way to the retina target macular degeneration without needles
+   Keywords: needles, protective, macular, compounds, ferry, degeneration, retina, cubosome
+
+21. Enzyme behind diet induced obesity and diabetes can be switched off Switching off an enzyme in mice prevented diet induced obesity and improved metabolism
    Keywords: enzyme, induced, diet, switched, diabetes, obesity, switching, improved
 
-14. World s first behavior transplant between species achieved
-   Keywords: behavior, species, achieved, transplant
+22. Device uses a camera AI and electricity to boost healing time by 25
+   Keywords: healing, electricity, camera, boost, device, uses
 
-15. New 3D bioprinting technique may improve production of engineered tissue
-   Keywords: tissue, technique, production, bioprinting, engineered, improve
+23. Slime mold meets encryption in a radical art experiment SlimeMoldCrypt turns a biological process into a quantum resistant encryption machine
+   Keywords: encryption, radical, biological, slimemoldcrypt, machine, process, art, experiment slimemoldcrypt
 
-16. Bottlebrush particles deliver big chemotherapy payloads directly to cancer cells
-   Keywords: cells, directly, cancer, chemotherapy, payloads, bottlebrush, deliver, particles
+24. UV light is a fast effective way to deactivate indoor airborne allergens UV222 light is a passive quick way to inactivate indoor airborne allergens like cat dander
+   Keywords: light, indoor, airborne, allergens, deactivate, inactivate, cat, dander
 
-17. Notorious Alzheimer s protein also supercharges cells against cancer Scientists have found that a byproduct of amyloid beta rejuvenates T cells boosting their tumor fighting power and dramatically reducing cancer risk
-   Keywords: scientists, rejuvenates, risk, cells, boosting, fighting, cancer, dramatically
+25. A boost for the precision of genome editing
+   Keywords: boost, genome, editing, precision
 
-18. Next gen imaging tech could catch sight stealing diseases early A powerful new imaging tool offers unprecedented 3D vision of the retina
+26. Study finds key role for non neural brain cells in processing vision MIT researchers employed a novel application of tools and analysis to show that astrocytes ensure neural information processing by maintaining ambient levels of the neurotransmitter chemical GABA
+   Keywords: neural, levels, analysis, role, neurotransmitter, processing, mit, novel
+
+27. This chip uses light to supercharge AI and cut energy use
+   Keywords: energy, light, cut, supercharge, chip, uses
+
+28. MIT s concrete battery just got 10 times more powerful Researchers found a way to combine cement water and carbon black to create a supercapacitor expanding the storage capacity by nearly 10 times
+   Keywords: combine, times, powerful, nearly, supercapacitor, battery, storage, create supercapacitor
+
+29. Next gen imaging tech could catch sight stealing diseases early A powerful new imaging tool offers unprecedented 3D vision of the retina
    Keywords: retina, vision, early, tech, imaging, offers, sight, powerful
 
-19. Sugar switch in the brain offers new path to treating depression Removing the St3gal1 enzyme in healthy mice caused depressive symptoms increasing St3gal1 in stressed mice had the opposite effect easing those behaviors
+30. NASA moon rover project pushes extreme battery tech to its limits
+   Keywords: limits, battery, project, tech, extreme, pushes, moon, nasa
+
+31. Scientists race to make living computers powered by human cells
+   Keywords: cells, powered, race, scientists, human, computers, living
+
+32. Sugar switch in the brain offers new path to treating depression Removing the St3gal1 enzyme in healthy mice caused depressive symptoms increasing St3gal1 in stressed mice had the opposite effect easing those behaviors
    Keywords: mice, easing, treating, caused, stressed, increasing, offers, behaviors
 
-20. Ocean CO2 becomes sustainable plastic thanks to modified microbes Turning dissolved carbon dioxide from seawater to biodegradable plastic is an especially powerful way to clean up the ocean
-   Keywords: ocean, clean, dioxide, powerful, plastic, turning, sustainable, biodegradable
+33. New daily pill shows strong results in ulcerative colitis clinical trial
+   Keywords: clinical, shows, trial, colitis, daily, pill, results, strong
 
-21. New sunlight powered film kills 99 995 bacteria to provide safe drinking water It offers a simple affordable and robust solution to the global safe drinking water crisis
-   Keywords: safe, provide, film, crisis, water, drinking, offers, affordable
+34. Next gen vaccine prevents up to 88 of multiple aggressive cancers
+   Keywords: prevents, aggressive, cancers, multiple, gen, vaccine
 
-22. Two pronged approach cuts sleep apnea events by 68
-   Keywords: events, cuts, approach, pronged, apnea, sleep
+35. Forged in disorder High entropy MXenes emerge as a new material
+   Keywords: emerge, material, disorder, forged, entropy, mxenes
 
-23. New approach shields memory from brain cancer radiotherapy
+36. Engineered natural killer cells could help fight cancer
+   Keywords: fight, cells, cancer, help, engineered, killer, natural
+
+37. Naked mole rat DNA repair could unlock natural human longevity
+   Keywords: longevity, unlock, dna, repair, human, natural, mole, naked
+
+38. Helping scientists run complex data analyses without writing code
+   Keywords: complex, code, writing, analyses, data, helping, run, scientists
+
+39. New approach shields memory from brain cancer radiotherapy
    Keywords: cancer, memory, radiotherapy, brain, approach, shields
 

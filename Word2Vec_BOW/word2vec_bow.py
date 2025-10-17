@@ -97,10 +97,9 @@ class Word2VecBOW:
         
         print(f"Binning {len(words)} words into {self.k_bins} bins using distance metric...")
         
-        # Create reference points using K-means centroids
-        kmeans = KMeans(n_clusters=self.k_bins, random_state=42, n_init=10)
-        kmeans.fit(word_vectors)
-        centroids = kmeans.cluster_centers_
+        # Create random reference points for distance-based binning
+        np.random.seed(42)
+        centroids = np.random.randn(self.k_bins, self.vector_size)
         
         # Assign words to bins based on distance to closest centroid
         self.word_to_cluster = {}
@@ -157,46 +156,6 @@ class Word2VecBOW:
             print(f"Cluster {cluster_id}: {', '.join(words)}")
         
         return cluster_analysis
-    
-    def find_optimal_k(self, k_range=None):
-        """Find optimal k using elbow method"""
-        if not self.word2vec_model:
-            raise ValueError("Word2Vec model not trained yet")
-        
-        words = list(self.word2vec_model.wv.index_to_key)
-        word_vectors = np.array([self.word2vec_model.wv[word] for word in words])
-        
-        if k_range is None:
-            k_range = range(3, 7)
-        
-        
-        silhouette_scores = []
-        k_values = list(k_range)
-        
-        print(f"Testing k values: {k_values}")
-        
-        for k in k_values:
-            kmeans = KMeans(n_clusters=k, random_state=42, n_init=10)
-            cluster_labels = kmeans.fit_predict(word_vectors)
-            score = silhouette_score(word_vectors, cluster_labels)
-            silhouette_scores.append(score)
-        
-        best_idx = np.argmax(silhouette_scores)
-        self.optimal_k = k_values[best_idx]
-        plt.figure(figsize=(10, 6))
-        plt.plot(k_values, silhouette_scores, 'bo-')
-        plt.axvline(x=self.optimal_k, color='r', linestyle='--', label=f'Optimal k={self.optimal_k}')
-        plt.xlabel('Number of clusters (k)')
-        plt.ylabel('Silhouette Score')
-        plt.title('Silhouette Score for Optimal k')
-        plt.legend()
-        plt.grid(True)
-        base_dir = os.path.dirname(os.path.abspath(__file__))
-        plt.savefig(os.path.join(base_dir, 'silhouette_plot.png'))
-        plt.show()
-        
-        print(f"Optimal k found: {self.optimal_k}")
-        return self.optimal_k, silhouette_scores
     
     def visualize_word_clusters(self, max_words=500):
         """Visualize word clusters using t-SNE and/or PCA"""
@@ -324,8 +283,7 @@ def main():
         
         w2v_bow.train_word2vec(corpus)
         
-        optimal_k, silhouette_scores = w2v_bow.find_optimal_k()
-        w2v_bow.k_bins = optimal_k
+
         
         w2v_bow.bin_words_by_distance()
         w2v_bow.analyze_clusters()
@@ -339,7 +297,6 @@ def main():
         print(f"\nConfig {i} results saved:")
         print(f"- Visualizations: clusters/ folder")
         print(f"- Document clusters: results/ folder")
-        print(f"- Optimal k: {optimal_k}")
 
 if __name__ == "__main__":
     main()

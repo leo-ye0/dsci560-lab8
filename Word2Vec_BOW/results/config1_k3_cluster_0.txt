@@ -1,66 +1,69 @@
-config1 | k=3 | Cluster 0 - 21 documents
+config1 | k=3 | Cluster 0 - 22 documents
 ============================================================
 
-1. Glue gun prints bone grafts directly onto fractures during surgery A modified glue gun prints bone grafts directly onto fractures during surgery
-   Keywords: surgery, bone, fractures, glue, directly, grafts, gun, prints
+1. Lidar helps gas industry find methane leaks and avoid costly losses Lincoln Laboratory transitioned its optical amplifier technology to Bridger Photonics for commercialization enhancing U S energy security and efficiency
+   Keywords: security, leaks, photonics, optical, industry, costly, laboratory, lidar
 
-2. World s first koala chlamydia vaccine approved for rollout across country Vaccine will protect koalas from the widespread disease that causes painful urinary tract infections infertility blindness and death
-   Keywords: disease, koala, vaccine, approved, painful, infections, rollout, koalas
+2. Lidar helps gas industry find methane leaks and avoid costly losses
+   Keywords: costly, leaks, industry, losses, avoid, methane, gas, helps
 
-3. Breakthrough 3D printing methods bring artificial skin tissue closer to reality Swedish research team pioneers methods to print skin with functioning blood vessels
-   Keywords: skin, methods, blood, research, artificial, print, printing, tissue
+3. Saab s compact Nimbrix missile takes down drone swarms Inexpensive system for handling small drones individually or in swarms at a range of up to 2 7 nautical miles 3 1 miles 5 km
+   Keywords: range, miles, nautical, swarms, inexpensive, individually, handling, nimbrix
 
-4. Technology originating at MIT leads to approved bladder cancer treatment
-   Keywords: treatment, mit, approved, leads, originating, technology, bladder, cancer
+4. Inexpensive New Water Based Liquid Battery Could Replace 10 000 Lithium Systems
+   Keywords: replace, based, lithium, systems, battery, inexpensive, liquid, water
 
-5. New RNA tool to advance cancer and infectious disease research and treatment
-   Keywords: research, treatment, advance, cancer, rna, tool, disease, infectious
+5. Hunger blocking exercise molecule drives weight loss without workouts And the good news is that it could be harnessed as a therapeutic providing the same benefits without the hard work it takes to produce it naturally
+   Keywords: harnessed, loss, therapeutic, produce, benefits, hard, molecule, hunger
 
-6. Eye drops could replace glasses or surgery for longsightedness study says Research shows most patients can read extra lines on eye test charts after twice daily treatment
-   Keywords: eye, replace, lines, twice, surgery, test, shows, study
+6. Meta launches smart glasses with built in display reaching for superintelligence
+   Keywords: superintelligence, glasses, built, display, reaching, launches, meta, smart
 
-7. New system dramatically speeds the search for polymer materials
-   Keywords: speeds, dramatically, search, materials, polymer
+7. Swarming drones could overwhelm air defenses changing the future of combat New AI software allows drones to fly and fight as one coordinated force
+   Keywords: drones, combat, fight, overwhelm, changing, fly, future, coordinated
 
-8. FDA approves first nasal spray diuretic for heart liver and kidney disease Aiming to prevent a common and costly issue that results in more than a million hospitalizations each year
-   Keywords: hospitalizations, costly, results, aiming, nasal, prevent, diuretic, fda
+8. Apollo laser takes down 200 drones unplugged
+   Keywords: unplugged, drones, apollo, laser, takes
 
-9. Machine learning tool gives doctors a more detailed 3D picture of fetal health
-   Keywords: health, picture, gives, detailed, doctors, fetal, learning, machine
+9. New nonstick coating acts like Teflon but without the forever chemicals
+   Keywords: forever, acts, chemicals, teflon, coating, nonstick
 
-10. Common daily pill slashes colorectal cancer s return by 55 A study involving more than 1 000 cancer patients has found that a low dose of aspirin halves the risk of colorectal tumors returning after surgery
-   Keywords: patients, involving, dose, halves, cancer, returning, colorectal, return
+10. MIT engineers develop a magnetic transistor for more energy efficient electronics A new device concept opens the door to compact high performance transistors with built in memory
+   Keywords: performance, built, opens, efficient, device concept, memory, door, electronics
 
-11. AI designed viruses are here and already killing bacteria Can AI create a life form These generative genomes are a start
-   Keywords: create, form, start, bacteria, designed, generative, genomes, killing
-
-12. Technique makes complex 3D printed parts more reliable New research enables computer designs to incorporate the limitations of 3D printers to better control materials performance in aerospace medical and other applications
-   Keywords: applications, designs, better, research, medical, performance, makes complex, technique
-
-13. Durable steel wheels could replace rubber tires on mining vehicles GACW says its Air Suspension Wheels can last as long as the vehicles they re fitted on and save up to 60 of what you d spend refitting tires on them over that time
+11. Durable steel wheels could replace rubber tires on mining vehicles GACW says its Air Suspension Wheels can last as long as the vehicles they re fitted on and save up to 60 of what you d spend refitting tires on them over that time
    Keywords: vehicles, wheels, spend, tires, save, says, steel, air
 
-14. New AI system could accelerate clinical research By enabling rapid annotation of areas of interest in medical images the tool can help scientists study new treatments or map disease progression
-   Keywords: areas, map, research, rapid, help, accelerate, progression, treatments
+12. Microwave weapon downs 49 drones with a single blast In a demonstration not so much of marksmanship but more of the advantages of microwaves
+   Keywords: advantages, demonstration, drones, marksmanship, microwaves, blast, single, downs
 
-15. Edible sensor warns of flu by tasting like thyme The molecular sensor contains a phenolic compound called thymol which is found in thyme
-   Keywords: thyme, tasting, sensor, contains, compound, flu, molecular, edible
+13. Low dose radiation relieves knee osteoarthritis pain improves function
+   Keywords: pain, relieves, function, improves, knee, osteoarthritis, dose, low
 
-16. A groundbreaking study has revealed that your mom and dad s DNA don t just pass on telomere length they actively reshape it in the first days of life influencing how we age and our risk of developing diseases such as cancer
-   Keywords: reshape, dad, length, influencing, revealed, risk, don, pass
+14. Spider like construction robot promises to build a home per day Being autonomously capable of building a 2 150 sq ft home in a single day operating at roughly the speed of 100 bricklayers
+   Keywords: home, autonomously, bricklayers, building, build, single, speed, robot
 
-17. Psychedelic DMT shows promise as breakthrough stroke treatment
-   Keywords: stroke, promise, treatment, breakthrough, dmt, psychedelic, shows
+15. Artificial neuron melds electronics and biology to function like the real thing
+   Keywords: function, electronics, biology, real, thing, artificial, melds, neuron
 
-18. Smart in asphalt fabric provides live reports from within roads Once embedded in the asphalt the sensor fabric s job is to provide continuous measurements
-   Keywords: asphalt, fabric, measurements, roads, job, reports, sensor, embedded
+16. Palladium filters could enable cheaper more efficient generation of hydrogen fuel The novel design allows the membranes to withstand high temperatures when separating hydrogen from gas mixtures
+   Keywords: hydrogen, efficient, enable, withstand, novel, temperatures, generation, separating
 
-19. Breakthrough blood test detects chronic fatigue in 92 of cases
-   Keywords: cases, detects, chronic, fatigue, blood, breakthrough, test
+17. Parachutes with hundreds of holes could enable safer drone deliveries
+   Keywords: deliveries, enable, holes, hundreds, parachutes, drone, safer
 
-20. New daily pill shows strong results in ulcerative colitis clinical trial
-   Keywords: clinical, shows, trial, colitis, daily, pill, results, strong
+18. How Wi Fi Signals Can Be Used to Detect Your Heartbeat Contactless pulse monitoring opens up new wearable possibilities
+   Keywords: signals, possibilities, used, pulse, detect, wearable, contactless, heartbeat
 
-21. Next gen vaccine prevents up to 88 of multiple aggressive cancers
-   Keywords: prevents, aggressive, cancers, multiple, gen, vaccine
+19. Ocean CO2 becomes sustainable plastic thanks to modified microbes Turning dissolved carbon dioxide from seawater to biodegradable plastic is an especially powerful way to clean up the ocean
+   Keywords: ocean, clean, dioxide, powerful, plastic, turning, sustainable, biodegradable
+
+20. New sunlight powered film kills 99 995 bacteria to provide safe drinking water It offers a simple affordable and robust solution to the global safe drinking water crisis
+   Keywords: safe, provide, film, crisis, water, drinking, offers, affordable
+
+21. Two pronged approach cuts sleep apnea events by 68
+   Keywords: events, cuts, approach, pronged, apnea, sleep
+
+22. New approach shields memory from brain cancer radiotherapy
+   Keywords: cancer, memory, radiotherapy, brain, approach, shields
 

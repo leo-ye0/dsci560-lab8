@@ -1,84 +1,9 @@
-config2 | k=5 | Cluster 3 - 27 documents
+config2 | k=5 | Cluster 3 - 2 documents
 ============================================================
 
-1. China s CATL launches new sodium ion battery brand
-   Keywords: ion, launches, sodium, battery, brand, catl, china
-
-2. Promising new epilepsy drug delivers 80 reduction in seizures Adults with drug resistant focal onset seizures are the target of experimental epilepsy drug RAP 219
+1. Promising new epilepsy drug delivers 80 reduction in seizures Adults with drug resistant focal onset seizures are the target of experimental epilepsy drug RAP 219
    Keywords: drug, epilepsy, reduction, seizures, adults, resistant, rap, experimental
 
-3. New electric car battery could last 600 000 miles and recharge in minutes
-   Keywords: minutes, battery, miles, recharge, car, electric
-
-4. We ve glimpsed the secret quantum landscape inside all matter
-   Keywords: matter, glimpsed, landscape, inside, quantum, secret
-
-5. Saab s compact Nimbrix missile takes down drone swarms Inexpensive system for handling small drones individually or in swarms at a range of up to 2 7 nautical miles 3 1 miles 5 km
-   Keywords: range, miles, nautical, swarms, inexpensive, individually, handling, nimbrix
-
-6. Inexpensive New Water Based Liquid Battery Could Replace 10 000 Lithium Systems
-   Keywords: replace, based, lithium, systems, battery, inexpensive, liquid, water
-
-7. Caged drugs still STING cancer but make treatment much safer The new drug delivery system only activates when inside a tumor and calls upon the body s own immune system to destroy it
-   Keywords: inside, safer, drug, body, calls, destroy, immune, sting
-
-8. A new study shows that a personalized precise form of brain stimulation HD tDCS can rapidly ease depression symptoms and even reduce anxiety offering a promising drug free alternative with only mild side effects
-   Keywords: effects, rapidly, reduce, free, symptoms, shows, stimulation, personalized
-
-9. Hunger blocking exercise molecule drives weight loss without workouts And the good news is that it could be harnessed as a therapeutic providing the same benefits without the hard work it takes to produce it naturally
-   Keywords: harnessed, loss, therapeutic, produce, benefits, hard, molecule, hunger
-
-10. Swarming drones could overwhelm air defenses changing the future of combat New AI software allows drones to fly and fight as one coordinated force
-   Keywords: drones, combat, fight, overwhelm, changing, fly, future, coordinated
-
-11. Apollo laser takes down 200 drones unplugged
-   Keywords: unplugged, drones, apollo, laser, takes
-
-12. A more precise way to edit the genome
-   Keywords: edit, genome, precise
-
-13. Ozempic killer New drug reprograms metabolism for lasting weight loss A new drug targets weight loss differently leading to a more permanent fat shedding solution
-   Keywords: drug, loss, permanent, solution, weight, ozempic, reprograms, differently
-
-14. New nonstick coating acts like Teflon but without the forever chemicals
-   Keywords: forever, acts, chemicals, teflon, coating, nonstick
-
-15. Nano cubosome eyedrops that can ferry protective compounds all the way to the retina target macular degeneration without needles
-   Keywords: needles, protective, macular, compounds, ferry, degeneration, retina, cubosome
-
-16. Enzyme behind diet induced obesity and diabetes can be switched off Switching off an enzyme in mice prevented diet induced obesity and improved metabolism
-   Keywords: enzyme, induced, diet, switched, diabetes, obesity, switching, improved
-
-17. Device uses a camera AI and electricity to boost healing time by 25
-   Keywords: healing, electricity, camera, boost, device, uses
-
-18. Durable steel wheels could replace rubber tires on mining vehicles GACW says its Air Suspension Wheels can last as long as the vehicles they re fitted on and save up to 60 of what you d spend refitting tires on them over that time
-   Keywords: vehicles, wheels, spend, tires, save, says, steel, air
-
-19. Slime mold meets encryption in a radical art experiment SlimeMoldCrypt turns a biological process into a quantum resistant encryption machine
-   Keywords: encryption, radical, biological, slimemoldcrypt, machine, process, art, experiment slimemoldcrypt
-
-20. Microwave weapon downs 49 drones with a single blast In a demonstration not so much of marksmanship but more of the advantages of microwaves
-   Keywords: advantages, demonstration, drones, marksmanship, microwaves, blast, single, downs
-
-21. MIT s concrete battery just got 10 times more powerful Researchers found a way to combine cement water and carbon black to create a supercapacitor expanding the storage capacity by nearly 10 times
-   Keywords: combine, times, powerful, nearly, supercapacitor, battery, storage, create supercapacitor
-
-22. Next gen imaging tech could catch sight stealing diseases early A powerful new imaging tool offers unprecedented 3D vision of the retina
-   Keywords: retina, vision, early, tech, imaging, offers, sight, powerful
-
-23. NASA moon rover project pushes extreme battery tech to its limits
-   Keywords: limits, battery, project, tech, extreme, pushes, moon, nasa
-
-24. Sugar switch in the brain offers new path to treating depression Removing the St3gal1 enzyme in healthy mice caused depressive symptoms increasing St3gal1 in stressed mice had the opposite effect easing those behaviors
-   Keywords: mice, easing, treating, caused, stressed, increasing, offers, behaviors
-
-25. Ocean CO2 becomes sustainable plastic thanks to modified microbes Turning dissolved carbon dioxide from seawater to biodegradable plastic is an especially powerful way to clean up the ocean
-   Keywords: ocean, clean, dioxide, powerful, plastic, turning, sustainable, biodegradable
-
-26. New sunlight powered film kills 99 995 bacteria to provide safe drinking water It offers a simple affordable and robust solution to the global safe drinking water crisis
-   Keywords: safe, provide, film, crisis, water, drinking, offers, affordable
-
-27. Helping scientists run complex data analyses without writing code
-   Keywords: complex, code, writing, analyses, data, helping, run, scientists
+2. Two pronged approach cuts sleep apnea events by 68
+   Keywords: events, cuts, approach, pronged, apnea, sleep
 

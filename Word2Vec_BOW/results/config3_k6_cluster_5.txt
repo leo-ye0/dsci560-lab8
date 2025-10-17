@@ -1,39 +1,12 @@
-config3 | k=6 | Cluster 5 - 12 documents
+config3 | k=6 | Cluster 5 - 3 documents
 ============================================================
 
-1. Artificial cartilage senses arthritis pain then morphs to block it A squishy cartilage like material can be loaded up with either long term or short term pain killers that are released when the material senses chemical stress from arthritis
-   Keywords: material, cartilage, arthritis, released, morphs, killers, short, term
-
-2. Breakthrough 3D printing methods bring artificial skin tissue closer to reality Swedish research team pioneers methods to print skin with functioning blood vessels
+1. Breakthrough 3D printing methods bring artificial skin tissue closer to reality Swedish research team pioneers methods to print skin with functioning blood vessels
    Keywords: skin, methods, blood, research, artificial, print, printing, tissue
 
-3. New RNA tool to advance cancer and infectious disease research and treatment
+2. New RNA tool to advance cancer and infectious disease research and treatment
    Keywords: research, treatment, advance, cancer, rna, tool, disease, infectious
 
-4. Eye drops could replace glasses or surgery for longsightedness study says Research shows most patients can read extra lines on eye test charts after twice daily treatment
-   Keywords: eye, replace, lines, twice, surgery, test, shows, study
-
-5. A new study shows that a personalized precise form of brain stimulation HD tDCS can rapidly ease depression symptoms and even reduce anxiety offering a promising drug free alternative with only mild side effects
-   Keywords: effects, rapidly, reduce, free, symptoms, shows, stimulation, personalized
-
-6. Easy test identifies high stress levels in kids living with chronic illness By testing for the stress hormone cortisol in hair researchers can identify kids with chronic illness who face the greatest risk of anxiety depression or behavioral struggles
-   Keywords: illness, kids, cortisol, researchers, stress, chronic, anxiety, risk
-
-7. Low dose radiation relieves knee osteoarthritis pain improves function
-   Keywords: pain, relieves, function, improves, knee, osteoarthritis, dose, low
-
-8. Study finds key role for non neural brain cells in processing vision MIT researchers employed a novel application of tools and analysis to show that astrocytes ensure neural information processing by maintaining ambient levels of the neurotransmitter chemical GABA
-   Keywords: neural, levels, analysis, role, neurotransmitter, processing, mit, novel
-
-9. Artificial neuron melds electronics and biology to function like the real thing
-   Keywords: function, electronics, biology, real, thing, artificial, melds, neuron
-
-10. Psychedelic DMT shows promise as breakthrough stroke treatment
-   Keywords: stroke, promise, treatment, breakthrough, dmt, psychedelic, shows
-
-11. Breakthrough blood test detects chronic fatigue in 92 of cases
-   Keywords: cases, detects, chronic, fatigue, blood, breakthrough, test
-
-12. Forged in disorder High entropy MXenes emerge as a new material
-   Keywords: emerge, material, disorder, forged, entropy, mxenes
+3. New AI system could accelerate clinical research By enabling rapid annotation of areas of interest in medical images the tool can help scientists study new treatments or map disease progression
+   Keywords: areas, map, research, rapid, help, accelerate, progression, treatments
 

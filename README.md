@@ -47,6 +47,11 @@ python Word2Vec_BOW/word2vec_bow.py
 python Doc2Vec/doc2vec.py
 ```
 
+4. Run analysis implementation:
+```bash
+python analysis.py
+```
+
 ## Features
 
 ### Core Implementation
@@ -77,6 +82,9 @@ Both Word2Vec BOW and Doc2Vec use identical configurations:
 ### Doc2Vec Results
 - `Doc2Vec/clusters/`: PCA visualizations for each model and k value
 - `Doc2Vec/results/`: Document cluster text files (model{1-3}_k{3-6}_cluster_{0-n}.txt)
+- 
+### Analysis Result
+- `analysis/analysis_summary.csv`: store the evaluations
 
 ## Methodology Comparison
 
@@ -98,6 +106,35 @@ Both approaches generate:
 - **Silhouette scores** measuring cluster quality
 - **Document cluster files** for qualitative analysis
 - **Identical parameters** for fair comparison
+
+To quantitatively compare **Word2Vec-BOW** and **Doc2Vec**, we evaluated their clustering results on the original dataset (`posts.csv`) using three standard metrics:
+
+| Metric | Description |
+|---------|--------------|
+| **Purity** | Measures how homogeneous each cluster is with respect to the true topic labels. |
+| **NMI (Normalized Mutual Information)** | Measures the similarity between two clustering assignments, normalized between 0 and 1. |
+| **ARI (Adjusted Rand Index)** | Evaluates the degree of agreement between two clusterings after adjusting for chance. |
+
+### Results Overview
+| Config | k | n_overlap | Purity_W2V | Purity_D2V | NMI | ARI |
+|:------:|:--:|:----------:|:------------:|:------------:|:----:|:----:|
+| 1 | 3–6 | 100 | **1.0000** | **1.0000** | 0.02–0.07 | ≈0.00 |
+| 2 | 3–6 | 100 | **1.0000** | **1.0000** | 0.01–0.09 | ≈0.00 |
+| 3 | 3–6 | 100 | **1.0000** | **1.0000** | 0.06–0.10 | ≈0.03–0.09 |
+
+### Interpretation
+
+- **Perfect Purity (1.0)** — Both Word2Vec-BOW and Doc2Vec successfully separate documents by their true topics.  
+  Each cluster contains posts from a single topic category.
+
+- **Low NMI / ARI values (<0.1)** — Despite identical topic separation quality, the two models organize documents differently in semantic space.  
+  Their internal clustering structures are only weakly correlated.
+
+- **Conclusion** —  
+  Both embedding methods are effective for macro-level topic separation.  
+  However, **Doc2Vec** and **Word2Vec-BOW** encode intra-topic relationships differently, reflecting distinct document-level semantics.  
+  For topic identification, either model is suitable; for fine-grained semantic similarity, Doc2Vec tends to capture more individualized representations.
+
 
 ## Data Requirements
 

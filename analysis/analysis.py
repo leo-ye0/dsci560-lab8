@@ -1,4 +1,3 @@
-
 import re
 import glob
 import difflib
